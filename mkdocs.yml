@@ -14,27 +14,25 @@ theme:
   # font:
   #   text: Bitter
   #   code: Roboto Mono
-  icon:
-    logo: material/library
+  # icon:
+  #   logo: material/library
     # admonition:
     #   <type>: material/file-alert-outline
 
-  favicon: img/apple-line.png
-  # img/11.ico
+  favicon: figures/profile3.jpg
   palette:
     #primary: blue grey
-    
     - media: "(prefers-color-scheme: light)"
       scheme: default # 日间模式
-      primary: light blue# 上方的
-      accent: teal # 链接等可交互元件的高亮色
+      primary: teal # 上方的
+      accent: blue # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
         name: Switch to Dark Mode # 鼠标悬浮提示
     - media: "(prefers-color-scheme: dark)"
       scheme: slate # 夜间模式
-      primary: black 
-      accent: teal
+      primary: blue grey 
+      accent: blue
       toggle:
         icon: material/weather-sunny
         name: Switch to Light Mode
