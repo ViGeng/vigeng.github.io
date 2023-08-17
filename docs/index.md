@@ -21,8 +21,6 @@ I am currently (2023-08-11) a second-year M.Phil. student in [HKUST(GZ)](https:/
 [ORCID: 0000-0001-5970-3550](https://orcid.org/0000-0001-5970-3550) <br>
 [Google Scholar](todo)
 
-----
-
 ## Research Interests
 
 <!-- - Human Pose Estimation (P.S., with the help of xxx) -->
@@ -43,10 +41,7 @@ I am currently (2023-08-11) a second-year M.Phil. student in [HKUST(GZ)](https:/
 - Harbin Engineering University, Harbin, China
 
 <!-- ##<small>Funding and awards</small> -->
-
 <!-- - Red Bird Scholarship, 2022-2024, HKUST(GZ) -->
-
-----
 
 ## Hobbies
 
@@ -54,8 +49,19 @@ I am currently (2023-08-11) a second-year M.Phil. student in [HKUST(GZ)](https:/
 - Chinese Calligraphy
 - Previous: League of Legends (LoL).
 
-----
-
 ## Publications
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
+
+<p class="text-box">
+<h2>News</h2>
+
+</p>
+<div class="text-box">
+  <h2>News</h2>
+  <p>
+    <b>2023-08-16</b>: Glad to become a reviewer for ACM ICN 2023 Poster and Demo Track.<br>
+    <b>2023-08-07</b>: We got an accepted paper in ACM ICN 2023.
+  </p>
+</div>

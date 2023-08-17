@@ -40,3 +40,29 @@ body {
     overflow: hidden;
     border-radius: 15%;
 }
+
+.text-right-center {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+
+  .text-box {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 280px;
+    font-size: small;
+    word-wrap: break-word;
+    word-break: break-all;
+  }
+  
+  
