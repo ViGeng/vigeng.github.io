@@ -49,7 +49,7 @@
 
 <br><br><br>
 
-I am currently (2023-08-11) a sencond-year M.Phil. student in [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. My research interests include XR, Computational Privacy, and Networking.
+I am currently (2023-08-11) a second-year M.Phil. student in [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. My research interests include XR, Computational Privacy, and Networked Systems.
 
 [ORCID: 0000-0001-5970-3550](https://orcid.org/0000-0001-5970-3550) <br>
 [Google Scholar](todo)
@@ -61,10 +61,10 @@ I am currently (2023-08-11) a sencond-year M.Phil. student in [HKUST(GZ)](https:
 
 <!-- - Human Pose Estimation (P.S., with the help of xxx) -->
 - Privacy Protection for Extended Reality (XR) (P.S., with the help of A.I. methods)
-- Networking for XR (P.S., Information-centric networking, edge computing, etc.)
+- In-Networking Computing (P.S., Information-centric networking, Edge Computing)
 - Previous research interest:
   - <span style="color: gray;">Cloud and Edge Computing</span>
-  - <span style="color: gray;">Programming Language Runtime (P.S., Golang and Java)</span>
+  - <span style="color: gray;">Programming Language Runtime (P.S., Golang and Java, mostly on their scheduling)</span>
 
 </font>
 
