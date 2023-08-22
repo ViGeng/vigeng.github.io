@@ -16,7 +16,7 @@
 </div><br><br><br>
 
 
-I am currently (2023-08-11) a second-year M.Phil. student in [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. My research interests include XR, Computational Privacy, and Networked Systems.
+I am currently (2023-08-11, about to become) a second-year M.Phil. student in [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. My research interests lie in the intersection between XR, Mobile Computing, and Networked Systems.
 
 [ORCID: 0000-0001-5970-3550](https://orcid.org/0000-0001-5970-3550) <br>
 [Google Scholar](todo)
@@ -33,12 +33,12 @@ I am currently (2023-08-11) a second-year M.Phil. student in [HKUST(GZ)](https:/
 
 ## Working and Education Experience
 
-- HKUST(GZ), Guangzhou, China
-- Huawei Technologies Co., Ltd., Shanghai, China
-- Fudan University, Shanghai, China
-- Ant Group Co., Ltd., Hangzhou, China
-- eBay Inc., Shanghai, China
-- Harbin Engineering University, Harbin, China
+- MPhil - HKUST(GZ), Guangzhou, China
+- Software Engineer - Huawei Technologies Co., Ltd., Shanghai, China
+- M.Eng. - Fudan University, Shanghai, China
+- Intern - Ant Group Co., Ltd., Hangzhou, China
+- Intern - eBay Inc., Shanghai, China
+- B.Eng. - Harbin Engineering University, Harbin, China
 
 <!-- ##<small>Funding and awards</small> -->
 <!-- - Red Bird Scholarship, 2022-2024, HKUST(GZ) -->
