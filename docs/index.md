@@ -11,7 +11,7 @@
     </div>
     <div style="float:right">
         <!-- <img class ="profile-photo" src="./figures/profile2.jpeg" width="" height=""> -->
-        <img class ="profile-photo-rounded-rectangle" src="/figures/profile2.jpeg" width="" height="">
+        <img class ="profile-photo-rounded-rectangle" src="/figures/2023hk.png" width="" height="">
     </div>
 </div><br><br><br>
 
