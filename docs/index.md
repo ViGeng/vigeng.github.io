@@ -24,12 +24,17 @@ I am currently (2023-08-11, about to become) a second-year M.Phil. student in [H
 ## Research Interests
 
 <!-- - Human Pose Estimation (P.S., with the help of xxx) -->
-- Privacy Protection for Extended Reality (XR) (P.S., with the help of A.I. methods)
+- Privacy Protection for Extended Reality (XR) (P.S., with the help of Multi-Modality DL methods)
+- Novel Sensor Perception and Communication (e.g., semantic detection and communication)
 - In-Networking Computing (P.S., Information-centric networking, Edge Computing)
 
 - Previous research interest:
     - <span style="color: gray;"> Cloud and Edge Computing </span>
     - <span style="color: gray;"> Programming Language Runtime (P.S., Golang and Java, mostly on their scheduling) </span>
+
+## Projects
+
+- Event-based Human Pose Estimation (HPE) -- Currently working on it.
 
 ## Working and Education Experience
 
@@ -53,9 +58,6 @@ I am currently (2023-08-11, about to become) a second-year M.Phil. student in [H
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
 
-
-<p class="text-box">
-<h2>News</h2>
 
 </p>
 <div class="text-box">

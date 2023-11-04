@@ -12,6 +12,9 @@ This is GENG Wei's personal webpage site.
 ### How to use
 
 ```bash
+pip install pymdown-extensions
+pip install mkdocs-material
+
 mkdocs serve
 ```
 - https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
