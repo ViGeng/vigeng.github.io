@@ -7,7 +7,7 @@
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fab fa-orcid"></i></a>
         <!-- <a href="mailto:rowan.gw@outlook.com">rowan.gw (at) outlook (dot) com</a><br> -->
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
-        <a href="https://scholar.google.com/citations?user=bSJz3BIAAAAJ&hl=en&oi=ao"><i class="fa fa-google"> </i></a>
+        <a href="https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en"><i class="fa fa-google"> </i></a>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
         <a href="https://www.linkedin.com/in/rowangw/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         <a href="https://twitter.com/Rowan_GW"><i class="fa fa-twitter"></i></a>
