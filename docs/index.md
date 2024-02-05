@@ -63,7 +63,7 @@ Previous Research Interest(Expertise):
 
 ### Event-based Human Perception
 
-- Course project: Event-based High-speed HPE, advised by Prof. Addison Lin WANG. Working in progress.
+- Course project: Event-based High-speed HPE, advised by Prof. [Addison Lin WANG](https://vlislab22.github.io/vlislab/linwang.html). Working in progress.
 
 ## Working Experience
 
