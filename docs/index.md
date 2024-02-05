@@ -44,7 +44,7 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 
 Previous Research Interest(Expertise):
 
-  - <span style="color: gray;"> High-performance Computing (P.S., Programming Language Runtime such as Golang) </span>
+  - <span style="color: gray;"> High-Performance Computing (P.S., Programming Language Runtime such as [Golang](https://github.com/golang/go)) </span>
 
 ## Projects
 
@@ -55,7 +55,7 @@ Previous Research Interest(Expertise):
 - Customization of Golang runtime, reduced 7+% CPU usage without modifying existing code.
 - RDMA-based communication between servers for low latency and high throughput, N× faster than TCP.
 
-### Quality of In-network Computing
+### Quality of In-Network Computing
 
 - Course project advised by Prof. Dirk KUTSCHER.
 - Main idea: Enhance the Quality of Service of in-network computing.
