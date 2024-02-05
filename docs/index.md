@@ -20,11 +20,11 @@
     </div>
 </div><br><br>
 
-I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).  **I am expected to graduate by 1 July, 2024. I am actively looking for PhD positions and hoping to start from Fall 2024.**
+I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).  **I am expected to graduate by 1 July 2024. I am actively looking for PhD positions and hoping to start from Fall 2024.**
 
 ## Short Bio
 
-Before joining HKUST(GZ), I worked as a Research & Development software engineer in [Huawei Technologies Co., Ltd.](https://www.huawei.com). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also had internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com). My current research interests lie in the intersection between **Extended Reality (XR), Networked Systems, and Computer Vision (CV)**.
+Before joining HKUST(GZ), I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also had internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com). My current research interests lie in the intersection between **Extended Reality (XR), Networked Systems, and Computer Vision (CV)**.
 
 ## Research Interests
 
@@ -34,12 +34,12 @@ Before joining HKUST(GZ), I worked as a Research & Development software engineer
 
 **Networked Computing Systems**
 
-  - Information-centric networking for efficient and secure data delivery
-  - Edge Computing, offloading, collaboration for XR
+  - Information-Centric Networking (ICN) for Efficient and Secure Data Delivery
+  - Edge Computing, Offloading, and Collaboration for XR
 
 **XR and CV**
 
-  - Human Pose Estimation and its Semantic Communication
+  - Human Pose Estimation (HPE) and its Semantic Communication
   - Privacy Protection for Immersive Environments
 
 Previous Research Interest(Expertise):
@@ -48,11 +48,11 @@ Previous Research Interest(Expertise):
 
 ## Projects
 
-### Performance Optimizatiaon of 5G Cloud Core Network
+### Performance Optimization of 5G Cloud Core Network
 
 - Work carried out in Huawei 5G Cloud Core Network Department.
 - Resource management of Linux kernel, reduced 2+% CPU usage.
-- Customization of Golang runtime, reduced 7+% CPU usage without any modification to existing code.
+- Customization of Golang runtime, reduced 7+% CPU usage without modifying existing code.
 - RDMA-based communication between servers for low latency and high throughput, N× faster than TCP.
 
 ### Quality of In-network Computing
@@ -63,7 +63,7 @@ Previous Research Interest(Expertise):
 
 ### Event-based Human Perception
 
-- Course project: Event-based High-speed Human Pose Estimation, advised by Prof. Addison Lin WANG. Working in progress.
+- Course project: Event-based High-speed HPE, advised by Prof. Addison Lin WANG. Working in progress.
 
 ## Working Experience
 
@@ -98,4 +98,4 @@ Previous Research Interest(Expertise):
 
 - Basketball, Badminton, Ping-pong.
 - Chinese Calligraphy
-- Previous: League of Legends (LoL).
+- Previous: Electronic Game League of Legends (LoL).
