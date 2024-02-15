@@ -31,7 +31,7 @@ body {
 .profile-photo-ellipse {
     border-radius: 100%;
     overflow: hidden;
-    width: 150px;
+    width: 200px;
 }
 
 .profile-photo-rounded-rectangle {

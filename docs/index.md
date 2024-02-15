@@ -14,9 +14,8 @@
         <a href="https://orcid.org/0000-0001-5970-3550"><img src="figures/orcid.png" alt="ORCID" style="width: 20px; height: 20px;"></a><br>
     </div>
     <div style="float:right">
-        <!-- <img class ="profile-photo" src="./figures/profile2.jpeg" width="" height=""> -->
-        <!-- <img class ="profile-photo-rounded-rectangle" src="/figures/2023hk.png" width="" height=""> -->
-        <img class ="profile-photo-ellipse" src="/figures/2023hk.png" width="" height="">
+        <!-- img class defined in extra.css file -->
+        <img class ="profile-photo-ellipse" src="/figures/2024florence.jpeg">
     </div>
 </div><br><br>
 
