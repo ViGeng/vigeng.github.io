@@ -21,7 +21,7 @@ theme:
     # admonition:
     #   <type>: material/file-alert-outline
 
-  favicon: figures/profile3.jpg
+  favicon: figures/logoSub.png
   palette:
     #primary: blue grey
     - media: "(prefers-color-scheme: light)"
@@ -60,7 +60,7 @@ theme:
     - content.action.view
 
   
-copyright: Copyright &copy; 2022~2023 Rowan/All Rights Reserved. # 左下角的版权声明
+copyright: Copyright &copy; 2022~2023 Wei GENG /All Rights Reserved. # 左下角的版权声明
   
 
 extra:
@@ -70,11 +70,18 @@ extra:
       link: https://twitter.com/Rowan_GW
     - icon: fontawesome/brands/github
       link: https://github.com/ViGeng
-    
-    - icon: fontawesome/solid/paper-plane
+    - icon: fontawesome/regular/envelope
       link: mailto:<wgeng252@connect.hkust-gz.edu.cn> #联系方式
     - icon: fontawesome/brands/bilibili
       link: https://space.bilibili.com/291115448?spm_id_from=333.1007.0.0
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rowan-geng-252/
+    - icon: fontawesome/brands/orcid
+      link: https://orcid.org/0000-0001-5970-3550
+    - icon: fontawesome/brands/researchgate
+      link: https://www.researchgate.net/profile/Wei-Geng-9
+    - icon: fontawesome/brands/google
+      link: https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en
   analytics: 
     provider: google
     property: G-3K0WBLE30D

@@ -11,7 +11,7 @@
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
         <a href="https://www.linkedin.com/in/rowangw/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         <a href="https://twitter.com/Rowan_GW"><i class="fa fa-twitter"></i></a>
-        <a href="https://orcid.org/0000-0001-5970-3550"><img src="figures/orcid.png" alt="ORCID" style="width: 20px; height: 20px;"></a><br>
+        <!-- <a href="https://orcid.org/0000-0001-5970-3550"><img src="figures/orcid.png" alt="ORCID" style="width: 20px; height: 20px;"></a><br> -->
     </div>
     <div style="float:right">
         <!-- img class defined in extra.css file -->
@@ -72,7 +72,7 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 
 ## **Education**
 
-- MPhil - HKUST(GZ), Guangzhou, China - 2022~current
+- M.Phil. - The Hong Kong University of Science and Technology, Guangzhou, China - 2022~current
 - M.Eng. - Fudan University, Shanghai, China - 2017~2020
 - B.Eng. - Harbin Engineering University, Harbin, China - 2013~2017
 
@@ -82,6 +82,9 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 ## **Publications**
 
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&jsonp=1"></script>
+
+<!-- <script defer src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&amp;jsonp=1"></script> -->
+
 
 </p>
 <div class="text-box">
