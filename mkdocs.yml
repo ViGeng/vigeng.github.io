@@ -6,6 +6,7 @@ repo_name: 'vigeng/vigeng.github.io'
 repo_url: 'https://github.com/ViGeng/vigeng.github.io'
 nav:
     - Home: index.md
+    - Misc: blog.md
     # - Conf DDL: confddl.md
 
 theme:
