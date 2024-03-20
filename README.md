@@ -6,6 +6,7 @@ This is GENG Wei's personal webpage site.
 ## TODO:
 
 - [ ] news block directly shows the contents from a news.md file
+- [ ] show feeds from RSS, [ref](https://docs.rsshub.app/ecosystem)
 
 ## References
 
