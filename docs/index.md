@@ -19,7 +19,9 @@
     </div>
 </div><br><br>
 
-I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).  **I am expected to graduate by 1 July 2024. I am actively looking for PhD positions and hoping to start from Fall 2024.**
+I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).  
+
+<!-- **I am expected to graduate by 1 July 2024. I am actively looking for PhD positions and hoping to start from Fall 2024.** -->
 
 ## **Short Bio**
 
@@ -90,6 +92,8 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 <div class="text-box">
   <h2>News</h2>
   <p>
+    <b>2024-3<b>: Glad to visit Technische Universität Munich. <br>
+    <b>2024-2<b>: Glad to visit Politecnico di Milano. <br>
     <b>2023-09-04</b>: Honored to be selected to receive an ACM Travel Grant and an RBM Research Travel Grant.<br>
     <b>2023-08-16</b>: Glad to become a reviewer for ACM ICN 2023 Poster and Demo Track.<br>
     <b>2023-08-07</b>: We got an accepted paper in ACM ICN 2023.
