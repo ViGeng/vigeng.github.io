@@ -5,11 +5,10 @@
     <div style="float:left">
         <a href="mailto:wgeng252@connect.hkust-gz.edu.cn">wgeng252@connect.hkust-gz.edu.cn</a><br>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fab fa-orcid"></i></a>
-        <!-- <a href="mailto:rowan.gw@outlook.com">rowan.gw (at) outlook (dot) com</a><br> -->
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
         <a href="https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en"><i class="fa fa-google"> </i></a>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
-        <a href="https://www.linkedin.com/in/rowangw/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+<!--         <a href="https://www.linkedin.com/in/rowangw/"><i class="fa fa-linkedin" aria-hidden="true"></i></a> -->
         <a href="https://twitter.com/Rowan_GW"><i class="fa fa-twitter"></i></a>
         <!-- <a href="https://orcid.org/0000-0001-5970-3550"><img src="figures/orcid.png" alt="ORCID" style="width: 20px; height: 20px;"></a><br> -->
     </div>
@@ -17,11 +16,9 @@
         <!-- img class defined in extra.css file -->
         <img class ="profile-photo-ellipse" src="/figures/2024florence.jpeg">
     </div>
-</div><br><br>
+</div>
 
-I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).  
-
-<!-- **I am expected to graduate by 1 July 2024. I am actively looking for PhD positions and hoping to start from Fall 2024.** -->
+I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).
 
 ## **Short Bio**
 
