@@ -43,6 +43,11 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 - M.Eng. - Fudan University, Shanghai, China - 2017~2020
 - B.Eng. - Harbin Engineering University, Harbin, China - 2013~2017
 
+<!-- ## Visiting Experience
+
+- Technical University of Munich, Munich, Germany - 2023
+- Politecnico di Milano, Milan, Italy - 2023 -->
+
 <!-- ## **Publications** -->
 
 <!-- <script defer src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&jsonp=1"></script> -->
