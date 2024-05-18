@@ -27,8 +27,8 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 
 ## **Research Interests**
 
-- Information-Centric Networking (ICN) for Efficient and Secure Data Delivery
-- Edge Computing, Offloading, and Collaboration for XR
+- Information-Centric Networking (ICN)
+- Edge Computing, Offloading for XR
 - Programming Languages (Golang)
 
 ## **Working Experience**
