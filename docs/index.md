@@ -3,7 +3,7 @@
 
 <div>
     <div style="float:left">
-        <!-- <a href="mailto:wgeng252@connect.hkust-gz.edu.cn">wgeng252@connect.hkust-gz.edu.cn</a><br> -->
+        <a href="mailto:wgeng252@connect.hkust-gz.edu.cn">wgeng252@connect.hkust-gz.edu.cn</a><br>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fab fa-orcid"></i></a>
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
         <a href="https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en"><i class="fa fa-google"> </i></a>
