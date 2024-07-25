@@ -19,17 +19,17 @@
 </div>
 <br>
 
-I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/). I also work closely with Prof. [Dirk Kutscher](https://dirk-kutscher.info).
+I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), advised by Prof. [Dirk Kutscher](https://dirk-kutscher.info).
 
 ## **Short Bio**
 
-Before joining HKUST(GZ), I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also had internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com). My current research interests lie in the intersection between **Extended Reality (XR), Networked Systems**.
+Before joining HKUST(GZ), I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com). My current research interests lie in **Edge Computing, Networked Systems**.
 
 ## **Research Interests**
 
 - Information-Centric Networking (ICN)
 - Edge Computing, Offloading for XR
-- Programming Languages (Golang)
+- Programming Languages Runtime Scheduling and Optimization (eg. Golang, Jave Runtimes)
 
 ## **Working Experience**
 
