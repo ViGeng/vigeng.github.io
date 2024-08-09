@@ -19,7 +19,9 @@
 </div>
 <br>
 
-I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html) and Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), advised by Prof. [Dirk Kutscher](https://dirk-kutscher.info).
+I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info).
+
+I will join [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at TU Munich, as a doctoral researcher under the supervision of [Prof. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/).
 
 ## **Short Bio**
 
