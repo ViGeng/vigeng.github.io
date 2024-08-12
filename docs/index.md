@@ -21,7 +21,7 @@
 
 I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info).
 
-I will join [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at TU Munich, as a doctoral researcher under the supervision of [Prof. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/).
+Thanks to the supervision of Prof. Hui, Prof. Tyson, Prof. Chan, and Prof. Su, I have successfully defended my thesis examination for M.Phil. in Computational Media and Arts. I will join [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at TU Munich, as a doctoral researcher under the supervision of [Prof. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/).
 
 ## **Short Bio**
 
