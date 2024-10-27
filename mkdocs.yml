@@ -1,6 +1,6 @@
-site_name: GENG Wei's Webpage
-site_description: Rowan Wei GENG's personal webpage.
-site_author: 'Rowan Wei GENG'
+site_name: GENG Wei's Homepage
+site_description: Wei GENG's personal information webpage.
+site_author: 'Wei GENG'
 docs_dir: docs/
 repo_name: 'vigeng/vigeng.github.io'
 repo_url: 'https://github.com/ViGeng/vigeng.github.io'
@@ -88,9 +88,9 @@ extra:
     property: G-3K0WBLE30D
 
 plugins:
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
-  # - offline
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - offline
   - search
   # - tags:
   #     tags_file: tag.md
@@ -125,9 +125,9 @@ markdown_extensions:
       anchor_linenums: true
       linenums: true # 显示行号
       # auto_title: true # 显示编程语言名称
-  # - pymdownx.emoji:
-  #     emoji_index: !!python/name:materialx.emoji.twemoji
-  #     emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:

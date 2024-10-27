@@ -1,16 +1,14 @@
 
-# **Rowan Wei GENG | 耿伟**
+# **Wei GENG | 耿伟**
 
 <div>
     <div style="float:left">
-        <a href="mailto:wgeng252@connect.hkust-gz.edu.cn">wgeng252@connect.hkust-gz.edu.cn</a><br>
-        <a href="https://orcid.org/0000-0001-5970-3550"><i class="fab fa-orcid"></i></a>
+        <a href="mailto:">wei.geng [AT] tum.de</a><br>
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
         <a href="https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en"><i class="fa fa-google"> </i></a>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
         <a href="https://www.linkedin.com/in/rowangw/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         <a href="https://twitter.com/Rowan_GW"><i class="fa fa-twitter"></i></a>
-        <!-- <a href="https://orcid.org/0000-0001-5970-3550"><img src="figures/orcid.png" alt="ORCID" style="width: 20px; height: 20px;"></a><br> -->
     </div>
     <div style="float:right">
         <!-- img class defined in extra.css file -->
@@ -19,29 +17,32 @@
 </div>
 <br>
 
-I am currently (2024-02-04) a second-year M.Phil. student at [HKUST(GZ)](https://www.hkust-gz.edu.cn) under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info).
+I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) under the supervision of [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [CIT](https://www.cit.tum.de/cit/startseite/), [TUM](https://tum.de). My current research interests lie in **Edge Computing, Networked Systems**.
 
-Thanks to the supervision of Prof. Hui, Prof. Tyson, Prof. Chan, and Prof. Su, I have successfully defended my thesis examination for M.Phil. in Computational Media and Arts. I will join [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/) at TU Munich, as a doctoral researcher under the supervision of [Prof. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/).
+## **📄 Short Bio**
 
-## **Short Bio**
+Before joining TUM, I was fortunate to work under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info) at [HKUST](https://hkust.edu.hk) as an M.Phil. student. Before that, I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com) with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com).
 
-Before joining HKUST(GZ), I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com). I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com). My current research interests lie in **Edge Computing, Networked Systems**.
-
-## **Research Interests**
+## **💻 Research Interests**
 
 - Information-Centric Networking (ICN)
-- Edge Computing, Offloading for XR
-- Programming Languages Runtime Scheduling and Optimization (eg. Golang, Jave Runtimes)
+- Edge Computing (Offloading, Scheduling, Optimization)
+- Networked Systems (from the perspective of Systems)
+- Programming Languages Runtime Scheduling and Optimization (eg. Golang Runtime)
 
-## **Working Experience**
+## **📚 Teaching**
 
-- Software Engineer - Huawei Technologies Co., Ltd., Shanghai, China - 2020~2022
+Winter Term 2024/25 - [Master Practical Course: Edge Computing and the Internet of Things (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
+
+## **💼 Working Experience**
+
+- Fulltime Software Engineer - Huawei Technologies Co., Ltd., Shanghai, China - 2020~2022
 - Intern - Ant Group Co., Ltd., Hangzhou, China - Winter, 2018
 - Intern - eBay Inc., Shanghai, China - Summer, 2019
 
-## **Education**
+## **🎓 Education** 
 
-- M.Phil. - The Hong Kong University of Science and Technology, Guangzhou, China - 2022~current
+- M.Phil. - The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
 - M.Eng. - Fudan University, Shanghai, China - 2017~2020
 - B.Eng. - Harbin Engineering University, Harbin, China - 2013~2017
 
@@ -56,7 +57,7 @@ Before joining HKUST(GZ), I worked as a Research & Development Software Engineer
 
 <!-- <script defer src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F8491953%2Fcollections%2FN8V49QLV%2Fitems%3Fkey%3DxUVOP2vkB66zdwZwhYwWtVIk%26format%3Dbibtex%26limit%3D100&amp;jsonp=1"></script> -->
 
-## **Hobbies**
+## **🏸 Hobbies**
 
 - Basketball, Badminton, Ping-pong.
 - Chinese Calligraphy
