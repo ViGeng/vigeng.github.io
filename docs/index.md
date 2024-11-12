@@ -1,9 +1,9 @@
 
-# **Wei GENG | 耿伟**
+# **Wei GENG**
 
 <div>
     <div style="float:left">
-        <a href="mailto:">wei.geng [AT] tum.de</a><br>
+        <a href="mailto:">Wei.Geng [AT] tum.de</a><br>
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
         <a href="https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en"><i class="fa fa-google"> </i></a>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
@@ -17,39 +17,41 @@
 </div>
 <br>
 
-I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) under the supervision of [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [CIT](https://www.cit.tum.de/cit/startseite/), [TUM](https://tum.de). My current research interests lie in **Edge Computing, Networked Systems**.
+I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) advised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [CIT](https://www.cit.tum.de/cit/startseite/), [TUM](https://tum.de) and [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing**.
 
 ## **📄 Short Bio**
 
-Before joining TUM, I was fortunate to work under the supervision of Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info) at [HKUST](https://hkust.edu.hk) as an M.Phil. student. Before that, I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com) with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Ant Group Co., Ltd.](https://www.antgroup.com) and [eBay Inc.](https://www.ebay.com).
+Before joining TUM, I was fortunate to be advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/) as an [M.Phil.](https://en.wikipedia.org/wiki/Master_of_Philosophy) student. Before that, I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com) with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Ant Group Co., Ltd.](https://www.antgroup.com) ([Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1&f-8DC992C756BA=) now) and [eBay Inc.](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
-- Information-Centric Networking (ICN)
 - Edge Computing (Offloading, Scheduling, Optimization)
 - Networked Systems (from the perspective of Systems)
+- Information-Centric Networking (ICN)
 - Programming Languages Runtime Scheduling and Optimization (eg. Golang Runtime)
 
-## **📚 Teaching**
+## **📚 Teaching & Supervision**
 
-Winter Term 2024/25 - [Master Practical Course: Edge Computing and the Internet of Things (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
+- Winter Term 2024/25 - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
+- Master/Bachelor Thesis Supervision - Please contact me if you are interested in working with me.
 
 ## **💼 Working Experience**
 
-- Fulltime Software Engineer - Huawei Technologies Co., Ltd., Shanghai, China - 2020~2022
-- Intern - Ant Group Co., Ltd., Hangzhou, China - Winter, 2018
-- Intern - eBay Inc., Shanghai, China - Summer, 2019
+- <img src="https://www.huawei.com/Assets/corp/v2/img/img_ent_en_logo_ico.png" alt="Huawei Logo" width="16" height="16"> Huawei Technologies Co., Ltd. - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
+- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group Co., Ltd. - Intern, Hangzhou, Winter, 2019
+- <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay Inc. - Intern, Shanghai, Summer, 2018
 
 ## **🎓 Education** 
 
-- M.Phil. - The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
-- M.Eng. - Fudan University, Shanghai, China - 2017~2020
-- B.Eng. - Harbin Engineering University, Harbin, China - 2013~2017
+- Ph.D. Student - <img src="https://www.tum.de/favicon.ico" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
+- M.Phil. - <img src="https://hkust.edu.hk/sites/default/files/HKUST_1.ico" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
+- M.Eng. <img src="https://www.fudan.edu.cn/_upload/tpl/00/06/6/template6/images/favicon.ico" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
+- B.Eng.  <img src="https://english.hrbeu.edu.cn/images/favicon.ico" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
+- Visiting Student - <img src="https://www.polimi.it/_assets/4b51f00386267395f41e0940abbcd656/Icons/favicon.ico" alt="Polimi Logo" width="16" height="16"> Politecnico di Milano, Milan, Italy - 2023.3
 
 <!-- ## Visiting Experience
 
 - Technical University of Munich, Munich, Germany - 2023
-- Politecnico di Milano, Milan, Italy - 2023 -->
 
 <!-- ## **Publications** -->
 
@@ -61,3 +63,9 @@ Winter Term 2024/25 - [Master Practical Course: Edge Computing and the Internet 
 
 - Basketball, Badminton, Ping-pong.
 - Chinese Calligraphy
+
+
+
+<!-- 
+TU Delft: https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico
+ -->
