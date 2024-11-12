@@ -34,6 +34,9 @@ Before joining TUM, I was fortunate to be advised by Prof. [Pan Hui](https://pan
 
 - Winter Term 2024/25 - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
 - Master/Bachelor Thesis Supervision - Please contact me if you are interested in working with me.
+- Teaching Assistant
+    - Red Bird Challenge Camp @ HKUST(GZ)
+    - Python Programming @ Fudan University
 
 ## **💼 Working Experience**
 
