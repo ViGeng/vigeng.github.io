@@ -3,7 +3,7 @@
 
 <div>
     <div style="float:left">
-        <a href="mailto:">Wei.Geng [AT] tum.de</a><br>
+        <a href="mailto:wei.geng@tum.de">Wei.Geng [AT] tum.de</a><br>
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
         <a href="https://scholar.google.com/citations?user=UVQKfU4AAAAJ&hl=en"><i class="fa fa-google"> </i></a>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
