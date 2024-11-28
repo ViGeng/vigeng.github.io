@@ -17,11 +17,11 @@
 </div>
 <br>
 
-I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) advised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [CIT](https://www.cit.tum.de/cit/startseite/), [TUM](https://tum.de) and [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing**.
+I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16"> Faculty of Informatics, [CIT](https://www.cit.tum.de/cit/startseite/), advised by [TUM](https://tum.de) and [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing**.
 
 ## **📄 Short Bio**
 
-Before joining TUM, I was fortunate to be advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/) as an [M.Phil.](https://en.wikipedia.org/wiki/Master_of_Philosophy) student. Before that, I worked as a Research & Development Software Engineer at [Huawei Technologies Co., Ltd.](https://www.huawei.com) with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Ant Group Co., Ltd.](https://www.antgroup.com) ([Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1&f-8DC992C756BA=) now) and [eBay Inc.](https://www.ebay.com).
+Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was lucky to be advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Before that, I was a full-time engineer focusing on systems performance optimization at [Huawei Technologies](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Alipay Financial Cloud](https://www.antgroup.com) ([Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1&f-8DC992C756BA=) now) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
@@ -64,10 +64,10 @@ Before joining TUM, I was fortunate to be advised by Prof. [Pan Hui](https://pan
 
 ## **🏸 Hobbies**
 
-- Basketball, Badminton, Ping-pong.
-- Chinese Calligraphy
-
-
+- Sports: Basketball, Badminton, Ping-pong.
+- Chinese Hard Pen Calligraphy
+- Reading Interests: History and Psychology
+- Cooking: Zero-shot Cooking 😈
 
 <!-- 
 TU Delft: https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico

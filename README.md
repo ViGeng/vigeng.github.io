@@ -16,7 +16,7 @@ This is GENG Wei's personal webpage site.
 # create a virtual environment
 python3 -m venv venv # run only if you haven't created a virtual environment
 source venv/bin/activate # pls ensure you have activated the virtual environment, or mkdocs can not find the installed packages
-
+pip install mkdocs
 pip install pymdown-extensions
 pip install mkdocs-material
 pip install mkdocs-git-revision-date-localized-plugin
