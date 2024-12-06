@@ -17,7 +17,7 @@
 </div>
 <br>
 
-I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) advised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [CIT](https://www.cit.tum.de/cit/startseite/), [TUM](https://tum.de) and [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing**.
+I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) advised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16"> Faculty of Informatics, [CIT](https://www.cit.tum.de/cit/startseite/), [TUM](https://tum.de) and [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing**.
 
 ## **📄 Short Bio**
 
