@@ -17,24 +17,29 @@
 </div>
 <br>
 
-I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16"> Faculty of Informatics, [CIT](https://www.cit.tum.de/cit/startseite/), advised by [TUM](https://tum.de) and [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing**.
+I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [TUM](https://tum.de), advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing and AI**.
 
 ## **📄 Short Bio**
 
-Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was lucky to be advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Before that, I was a full-time engineer focusing on systems performance optimization at [Huawei Technologies](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I also have internships in [Alipay Financial Cloud](https://www.antgroup.com) ([Alibaba Cloud](https://www.alibabacloud.com/en?_p_lc=1&f-8DC992C756BA=) now) and [eBay](https://www.ebay.com).
+Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time R&D Engineer focusing on systems performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
-- Edge Computing (Offloading, Scheduling, Optimization)
-- Networked Systems (from the perspective of Systems)
-- Information-Centric Networking (ICN)
-- Programming Languages Runtime Scheduling and Optimization (eg. Golang Runtime)
+- Edge Computing, Fog Computing
+    - supporting critical applications latency-wise and efficiency-wise
+    - e.g., offload DL inference tasks from mobile/IoT devices to edge servers
+- Networked Systems
+    - ML-enabled, e.g., ML-based task scheduling
+    - enabling-ML, e.g., distributed Inference
+- Programming Language Runtime and OS (not much anymore)
+    - Golang runtime scheduler
+    - OS kernel optimization
 
 ## **📚 Teaching & Supervision**
 
 - Winter Term 2024/25 - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
 - Master/Bachelor Thesis Supervision - Please contact me if you are interested in working with me.
-- Teaching Assistant
+- Teaching Assistant / Tutorals
     - Red Bird Challenge Camp @ HKUST(GZ)
     - Python Programming @ Fudan University
 
@@ -46,7 +51,7 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 
 ## **🎓 Education** 
 
-- Ph.D. Student - <img src="https://www.tum.de/favicon.ico" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
+- Ph.D. Student - <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="https://www.tum.de/favicon.ico" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
 - M.Phil. - <img src="https://hkust.edu.hk/sites/default/files/HKUST_1.ico" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
 - M.Eng. <img src="https://www.fudan.edu.cn/_upload/tpl/00/06/6/template6/images/favicon.ico" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
 - B.Eng.  <img src="https://english.hrbeu.edu.cn/images/favicon.ico" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
