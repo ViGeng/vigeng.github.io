@@ -68,15 +68,13 @@ extra:
   generator: false  #删除页脚显示“使用 MkDocs 材料制造”
   social:
     - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/Rowan_GW
+      link: https://x.com/WGeng_
     - icon: fontawesome/brands/github
       link: https://github.com/ViGeng
     - icon: fontawesome/regular/envelope
-      link: mailto:<wgeng252@connect.hkust-gz.edu.cn> #联系方式
-    - icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/291115448?spm_id_from=333.1007.0.0
+      link: mailto:<wei.geng@tum.de> #联系方式
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/rowan-geng-252/
+      link: https://www.linkedin.com/in/wegeng
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0001-5970-3550
     - icon: fontawesome/brands/researchgate

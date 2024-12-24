@@ -7,8 +7,8 @@
         <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
         <a href="https://scholar.google.com/citations?user=Zq6m2CIAAAAJ&hl=en"><i class="fa fa-google"> </i></a>
         <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
-        <a href="https://www.linkedin.com/in/rowangw/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-        <a href="https://twitter.com/Rowan_GW"><i class="fa fa-twitter"></i></a>
+        <a href="www.linkedin.com/in/wegeng"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+        <a href="https://x.com/WGeng_"><i class="fa fa-twitter"></i></a>
     </div>
     <div style="float:right">
         <!-- img class defined in extra.css file -->
