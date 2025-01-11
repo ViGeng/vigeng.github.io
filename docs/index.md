@@ -45,16 +45,16 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 
 ## **💼 Working Experience**
 
-- <img src="https://www.huawei.com/Assets/corp/v2/img/img_ent_en_logo_ico.png" alt="Huawei Logo" width="16" height="16"> Huawei Technologies Co., Ltd. - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
-- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group Co., Ltd. - Intern, Hangzhou, Winter, 2019
-- <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay Inc. - Intern, Shanghai, Summer, 2018
+- <img src="https://www.huawei.com/Assets/corp/v2/img/img_ent_en_logo_ico.png" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
+- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern, Hangzhou, Winter, 2019
+- <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Summer, 2018
 
 ## **🎓 Education** 
 
 - Ph.D. Student - <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="https://www.tum.de/favicon.ico" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
 - M.Phil. - <img src="https://hkust.edu.hk/sites/default/files/HKUST_1.ico" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
-- M.Eng. <img src="https://www.fudan.edu.cn/_upload/tpl/00/06/6/template6/images/favicon.ico" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
-- B.Eng.  <img src="https://english.hrbeu.edu.cn/images/favicon.ico" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
+- M.Eng. - <img src="https://www.fudan.edu.cn/_upload/tpl/00/06/6/template6/images/favicon.ico" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
+- B.Eng. - <img src="https://english.hrbeu.edu.cn/images/favicon.ico" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
 - Visiting Student - <img src="https://www.polimi.it/_assets/4b51f00386267395f41e0940abbcd656/Icons/favicon.ico" alt="Polimi Logo" width="16" height="16"> Politecnico di Milano, Milan, Italy - 2023.3
 
 <!-- ## Visiting Experience
