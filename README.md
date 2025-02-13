@@ -28,3 +28,7 @@ mkdocs serve
 - https://wcowin.work/blog/Mkdocs/mkdocs2/
 - https://github.com/yywangvr/yywangvr.github.io
 
+
+### Problems
+
+- Nested list only accept 4 spaces, NOT 2 spaces.

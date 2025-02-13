@@ -1,4 +1,3 @@
-
 # **Wei GENG**
 
 <div>
@@ -35,11 +34,12 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
     - Golang runtime scheduler
     - OS kernel optimization
 
-## **📚 Teaching & Supervision**
+## **🧑‍🏫 Teaching & Supervision**
 
+- Summer Term 2025 - [Seminar - Hot Topics in Edge Computing (IN2107, IN4417)](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
 - Winter Term 2024/25 - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
 - Master/Bachelor Thesis Supervision - Please contact me if you are interested in working with me.
-- Teaching Assistant / Tutorals
+- Previous Teaching Assistant / Tutorals
     - Red Bird Challenge Camp @ HKUST(GZ)
     - Python Programming @ Fudan University
 
@@ -49,17 +49,13 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 - <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern, Hangzhou, Winter, 2019
 - <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Summer, 2018
 
-## **🎓 Education** 
+## **🎓 Education**
 
 - Ph.D. Student - <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="https://www.tum.de/favicon.ico" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
 - M.Phil. - <img src="https://hkust.edu.hk/sites/default/files/HKUST_1.ico" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
 - M.Eng. - <img src="https://www.fudan.edu.cn/_upload/tpl/00/06/6/template6/images/favicon.ico" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
 - B.Eng. - <img src="https://english.hrbeu.edu.cn/images/favicon.ico" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
 - Visiting Student - <img src="https://www.polimi.it/_assets/4b51f00386267395f41e0940abbcd656/Icons/favicon.ico" alt="Polimi Logo" width="16" height="16"> Politecnico di Milano, Milan, Italy - 2023.3
-
-<!-- ## Visiting Experience
-
-- Technical University of Munich, Munich, Germany - 2023
 
 <!-- ## **Publications** -->
 
@@ -74,6 +70,6 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 - Reading Interests: History and Psychology
 - Cooking: Zero-shot Cooking 😈
 
-<!-- 
+<!--
 TU Delft: https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico
  -->

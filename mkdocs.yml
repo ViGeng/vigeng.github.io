@@ -7,23 +7,21 @@ repo_url: "https://github.com/ViGeng/vigeng.github.io"
 nav:
   - Home: index.md
   - Blog: https://rowanblog.notion.site/
-  # - Misc: blog.md
-  # - Conf DDL: confddl.md
 
 theme:
   name: material
-  logo: figures/logoSub.png
+  logo: figures/favicon.png
   # custom_dir: overrides
   # custom_dir: material/.overrides
   # font:
-  #   text: Bitter
+  # text: Bitter
   #   code: Roboto Mono
   # icon:
-  #   logo: material/library
+  # logo: material/library
   # admonition:
-  #   <type>: material/file-alert-outline
+  # <type>: material/file-alert-outline
 
-  favicon: figures/logoSub.png
+  favicon: figures/favicon.png
   palette:
     #primary: blue grey
     - media: "(prefers-color-scheme: light)"
