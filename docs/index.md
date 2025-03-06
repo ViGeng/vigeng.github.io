@@ -66,6 +66,8 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 ## **🏸 Hobbies**
 
 - Sports: Basketball, Badminton, Ping-pong.
+- Open Source
+    - A set of extensions for Raycast I wrote [here](https://www.raycast.com/ViGeng?via=ViGeng)
 - Chinese Hard Pen Calligraphy
 - Reading Interests: History and Psychology
 - Cooking: Zero-shot Cooking 😈
