@@ -20,7 +20,7 @@ I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-t
 
 ## **📄 Short Bio**
 
-Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time R&D Engineer focusing on systems performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
+Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time Engineer researching on system performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
@@ -30,15 +30,17 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 - Networked Systems
     - ML-enabled, e.g., ML-based task scheduling
     - enabling-ML, e.g., distributed Inference
-- Programming Language Runtime and OS (not much anymore)
+- Programming Language Runtime and OS (@Huawei)
     - Golang runtime scheduler
     - OS kernel optimization
 
 ## **🧑‍🏫 Teaching & Supervision**
 
-- Summer Term 2025 - [Seminar - Hot Topics in Edge Computing (IN2107, IN4417)](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
-- Winter Term 2024/25 - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
-- Master/Bachelor Thesis Supervision - Please contact me if you are interested in working with me.
+- Summer Term 2025 @TUM - [Seminar - Hot Topics in Edge Computing (IN2107, IN4417)](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
+- Winter Term 2024/25 @TUM - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
+- Master/Bachelor Thesis Supervision
+    - I am actively finding thesis students. Please contact me if you are interested in working with me.
+    - A list of theis topics can be found [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/#c50250)
 - Previous Teaching Assistant / Tutorals
     - Red Bird Challenge Camp @ HKUST(GZ)
     - Python Programming @ Fudan University
@@ -46,8 +48,8 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 ## **💼 Working Experience**
 
 - <img src="https://www.huawei.com/Assets/corp/v2/img/img_ent_en_logo_ico.png" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
-- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern, Hangzhou, Winter, 2019
-- <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Summer, 2018
+- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern, Hangzhou, Summer, 2019
+- <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Winter, 2018
 
 ## **🎓 Education**
 
