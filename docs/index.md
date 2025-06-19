@@ -20,7 +20,7 @@ I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-t
 
 ## **📄 Short Bio**
 
-Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time Engineer researching on system performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
+Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time Engineer researching system performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
@@ -67,12 +67,11 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 
 ## **🏸 Hobbies**
 
-- Sports: Basketball, Badminton, Ping-pong.
+- Sports: Basketball, Badminton, Ping-pong, Gym.
 - Open Source
-    - A set of extensions for Raycast I wrote [here](https://www.raycast.com/ViGeng?via=ViGeng)
-- Chinese Hard Pen Calligraphy
+    - A set of extensions I wrote for Raycast can be found [here](https://www.raycast.com/ViGeng?via=ViGeng)
+- Pen Calligraphy
 - Reading Interests: History and Psychology
-- Cooking: Zero-shot Cooking 😈
 
 <!--
 TU Delft: https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico
