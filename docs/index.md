@@ -40,24 +40,24 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 - Winter Term 2024/25 @TUM - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
 - Master/Bachelor Thesis Supervision
     - I am actively finding thesis students. Please contact me if you are interested in working with me.
-    - A list of theis topics can be found [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/#c50250)
+    - A list of theis topics provided by [our chair](https://www.ce.cit.tum.de/cm/home/) can be found [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/#c50250)
 - Previous Teaching Assistant / Tutorals
     - Red Bird Challenge Camp @ HKUST(GZ)
     - Python Programming @ Fudan University
 
 ## **💼 Working Experience**
 
-- <img src="https://www.huawei.com/Assets/corp/v2/img/img_ent_en_logo_ico.png" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
+- <img src="https://www.google.com/s2/favicons?sz=256&domain=www.huawei.com" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
 - <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern, Hangzhou, Summer, 2019
-- <img src="https://www.ebayinc.com/favicon.ico" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Winter, 2018
+- <img src="https://www.google.com/s2/favicons?sz=256&domain=www.ebayinc.com" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Winter, 2018
 
 ## **🎓 Education**
 
-- Ph.D. Student - <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="https://www.tum.de/favicon.ico" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
-- M.Phil. - <img src="https://hkust.edu.hk/sites/default/files/HKUST_1.ico" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
-- M.Eng. - <img src="https://www.fudan.edu.cn/_upload/tpl/00/06/6/template6/images/favicon.ico" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
-- B.Eng. - <img src="https://english.hrbeu.edu.cn/images/favicon.ico" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
-- Visiting Student - <img src="https://www.polimi.it/_assets/4b51f00386267395f41e0940abbcd656/Icons/favicon.ico" alt="Polimi Logo" width="16" height="16"> Politecnico di Milano, Milan, Italy - 2023.3
+- Ph.D. Student - <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="https://www.google.com/s2/favicons?sz=256&domain=www.tum.de" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
+- M.Phil. - <img src="https://www.google.com/s2/favicons?sz=256&domain=hkust.edu.hk" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
+- M.Eng. - <img src="https://www.google.com/s2/favicons?sz=256&domain=www.fudan.edu.cn" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
+- B.Eng. - <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://english.hrbeu.edu.cn&size=256" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
+- Visiting Student - <img src="https://www.google.com/s2/favicons?sz=256&domain=www.polimi.it" alt="Polimi Logo" width="16" height="16"> Politecnico di Milano, Milan, Italy - 2023.3
 
 <!-- ## **Publications** -->
 
