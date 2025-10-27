@@ -1,5 +1,19 @@
 # **Wei GENG**
 
+<!-- News Section -->
+<div class="news-section">
+  <h3>📰 Recent News</h3>
+  <ul>
+    <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025! 🎉</li>
+    <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li>
+    <!-- <li><strong>Mar 2024:</strong> Visiting Technische Universität München</li> -->
+    <!-- <li><strong>Mar 2024:</strong> Visiting Politecnico di Milano</li> -->
+    <!-- <li><strong>Sep 4, 2023:</strong> Honored to be selected to receive an ACM Travel Grant and an RBM Research Travel Grant.</li>
+    <li><strong>Aug 16, 2023:</strong> Glad to become a reviewer for ACM ICN 2023 Poster and Demo Track.</li>
+    <li><strong>Aug 2023:</strong> We got an accepted paper in ACM ICN 2023</li> -->
+  </ul>
+</div>
+
 <div>
     <div style="float:left">
         <a href="mailto:wei.geng@tum.de">Wei.Geng [AT] tum.de</a><br>
@@ -16,11 +30,10 @@
 </div>
 <br>
 
-I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [TUM](https://tum.de), advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing and AI**.
 
 ## **📄 Short Bio**
 
-Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time Engineer researching system performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
+I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [TUM](https://tum.de), advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Critical Applications by Edge Computing and AI**. Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time Engineer researching system performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 

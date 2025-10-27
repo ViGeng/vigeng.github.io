@@ -1,12 +1,12 @@
 site_name: GENG Wei's Homepage
-site_description: Wei GENG's personal information webpage.
+site_description: Wei GENG's personal webpage.
 site_author: "Wei GENG"
 docs_dir: docs/
 repo_name: "vigeng/vigeng.github.io"
 repo_url: "https://github.com/ViGeng/vigeng.github.io"
 nav:
   - Home: index.md
-  - Blog: https://rowanblog.notion.site/
+  # - Blog: https://rowanblog.notion.site/
 
 theme:
   name: material
@@ -87,10 +87,17 @@ extra:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
+  # - blog:
+  #     blog_dir: .
+  #     post_dir: posts
+  #     post_url_format: "{slug}"
+  #     categories_allowed:
+  #       - Publications
+  #       - Teaching
+  #       - Projects
+  - tags
   - offline
   - search
-  # - tags:
-  #     tags_file: tag.md
 
 markdown_extensions:
   - abbr
