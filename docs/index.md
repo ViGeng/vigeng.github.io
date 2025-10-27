@@ -36,20 +36,23 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 
 ## **🧑‍🏫 Teaching & Supervision**
 
-- Summer Term 2025 @TUM - [Seminar - Hot Topics in Edge Computing (IN2107, IN4417)](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
-- Winter Term 2024/25 @TUM - [Master Practical Course: Edge Computing and the IoT (IN2106, IN4261)](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
-- Master/Bachelor Thesis Supervision
-    - I am actively finding thesis students. Please contact me if you are interested in working with me.
-    - A list of theis topics provided by [our chair](https://www.ce.cit.tum.de/cm/home/) can be found [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/#c50250)
-- Previous Teaching Assistant / Tutorals
-    - Red Bird Challenge Camp @ HKUST(GZ)
-    - Python Programming @ Fudan University
+- Master Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM Chair of Connected Mobility
+    - [Winter Term 2025/26](https://www.ce.cit.tum.de/cm/teaching/winter-term-2025-26/edge-computing-and-the-internet-of-things/)
+    - [Winter Term 2024/25](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
+- Seminar - Hot Topics in Edge Computing (IN2107, IN4417) @TUM Chair of Connected Mobility
+    - [Summer Term 2025](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
+- Master/Bachelor Thesis/Guided Research/Internship Supervision @TUM
+    - If you are interested in working with me, please feel free to contact me via email.
+    - You can also find a list of open topics from our chair [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/).
+- Teaching Assistant / Tutorals
+    - Tutuorial - Red Bird Challenge Camp @ HKUST(GZ)
+    - Teaching Assistant - Python Programming @ Fudan University
 
 ## **💼 Working Experience**
 
-- <img src="https://www.google.com/s2/favicons?sz=256&domain=www.huawei.com" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - Fulltime R&D Software Engineer, Shanghai, 2020~2022.
-- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern, Hangzhou, Summer, 2019
-- <img src="https://www.google.com/s2/favicons?sz=256&domain=www.ebayinc.com" alt="eBay Logo" width="16" height="16"> eBay - Intern, Shanghai, Winter, 2018
+- <img src="https://www.google.com/s2/favicons?sz=256&domain=www.huawei.com" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - 5G and High Performance Computing, Shanghai, 2020~2022.
+- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern in Cloud Computing, Hangzhou, Summer, 2019
+- <img src="https://www.google.com/s2/favicons?sz=256&domain=www.ebayinc.com" alt="eBay Logo" width="16" height="16"> eBay - Intern in Big Data and Distributed Systems, Shanghai, Winter, 2018
 
 ## **🎓 Education**
 
@@ -71,7 +74,6 @@ Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hk
 - Open Source
     - A set of extensions I wrote for Raycast can be found [here](https://www.raycast.com/ViGeng?via=ViGeng)
 - Pen Calligraphy
-- Reading Interests: History and Psychology
 
 <!--
 TU Delft: https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico
