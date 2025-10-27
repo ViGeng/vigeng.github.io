@@ -5,7 +5,7 @@
   <h3>📰 Recent News</h3>
   <ul>
     <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025! 🎉</li>
-    <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li>
+    <!-- <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li> -->
     <!-- <li><strong>Mar 2024:</strong> Visiting Technische Universität München</li> -->
     <!-- <li><strong>Mar 2024:</strong> Visiting Politecnico di Milano</li> -->
     <!-- <li><strong>Sep 4, 2023:</strong> Honored to be selected to receive an ACM Travel Grant and an RBM Research Travel Grant.</li>
@@ -57,6 +57,9 @@ I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-t
 - Master/Bachelor Thesis/Guided Research/Internship Supervision @TUM
     - If you are interested in working with me, please feel free to contact me via email.
     - You can also find a list of open topics from our chair [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/).
+    - Supervised Students:
+        - Oguz Kagan Altas - M.sc. Thesis - KUT: Automated Network Traffic Measurement Framework for the Edge
+        - Zihan Deng - B.sc. Intern - Measuring Heterogeneous Edge Devices AI Performance. 
 - Teaching Assistant / Tutorals
     - Tutuorial - Red Bird Challenge Camp @ HKUST(GZ)
     - Teaching Assistant - Python Programming @ Fudan University
