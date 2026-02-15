@@ -1,0 +1,91 @@
+:root>* {
+    --md-primary-fg-color: #518FC1;
+    --md-primary-fg-color--light: #518FC1;
+    /* --md-primary-fg-color--dark:  #518FC1; */
+}
+
+/* you can using chrome developer tools to find the css you want to change 
+and paste the style you want here */
+.md-typeset {
+    /* -webkit-print-color-adjust: exact;
+    color-adjust: exact; */
+    font-size: .7rem;
+    /* change size of plain text font */
+    line-height: 1.4;
+    /* change line height of plain text */
+}
+
+body {
+    /* font-family: "LXGW WenKai", sans-serif; */
+    /* Lite version */
+    /* font-family: "LXGW WenKai Lite", sans-serif; */
+    /* TC version */
+    /* font-family: "LXGW WenKai TC", sans-serif; */
+    /* Screen version */
+    /* font-family: "LXGW WenKai Screen", sans-serif; */
+}
+
+/* 设置分栏的方法来自于：https://www.v2ex.com/t/132636 
+设置图片边框：https://blog.csdn.net/ProgramChangesWorld/article/details/51702679 */
+/* define profile photo style */
+.profile-photo-ellipse {
+    border-radius: 100%;
+    overflow: hidden;
+    width: 200px;
+}
+
+.profile-photo-rounded-rectangle {
+    width: 230px;
+    /* height: 800px; */
+    overflow: hidden;
+    border-radius: 15%;
+}
+
+.text-right-center {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+
+  .text-box {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 280px;
+    font-size: small;
+    word-wrap: break-word;
+    word-break: break-all;
+  }
+
+/* News section styling for light and dark modes */
+.news-section {
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+[data-md-color-scheme="slate"] .news-section {
+    background-color: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.news-section h3 {
+    margin-top: 0;
+}
+
+.news-section ul {
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+  
+  
