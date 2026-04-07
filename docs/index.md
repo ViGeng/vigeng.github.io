@@ -4,6 +4,8 @@
 <div class="news-section">
   <h3>📰 Recent News</h3>
   <ul>
+    <li><strong>Apr 2026:</strong> Looking forward to attending <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft! 🚀</li>
+    <li><strong>Apr 2026:</strong> Our full paper "SMOOTH: Scalable Multitask Offloading with Backbone Sharing" accepted at IFIP Networking 2026! 🎉</li>
     <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025! 🎉</li>
     <!-- <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li> -->
     <!-- <li><strong>Mar 2024:</strong> Visiting Technische Universität München</li> -->
@@ -33,11 +35,11 @@
 
 ## **📄 Short Bio**
 
-I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-to-a-doctorate/tum-doctoral-model/) currently supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility](https://www.ce.cit.tum.de/cm/home/), [TUM](https://tum.de), advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [SPEAR Lab](https://spearlab.nl/people), [TU Delft](https://www.tudelft.nl/en/), [mentored](https://www.gs.tum.de/gs/waehrend-der-promotion/ablauf-der-promotion/) by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Edge Computing and Constrained Intelligence**. Before joining TUM, I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time Engineer researching 5G Core system performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
+I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/), co-advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [SPEAR Lab, TU Delft](https://spearlab.nl/people), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Edge Computing and AI Systems**. I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core networkperformance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
-- Edge Computing, Fog Computing
+- Edge Computing
     - supporting critical applications latency-wise and efficiency-wise
     - e.g., offload DL inference tasks from mobile/IoT devices to edge servers
 - Networked Systems
@@ -47,21 +49,30 @@ I am a doctoral reseacher & [Ph.D. candidate](https://www.gs.tum.de/en/gs/path-t
     - Golang runtime scheduler
     - OS kernel optimization
 
+## **🔬 Research Projects**
+- Horizon Europe Project - [Resilient Edge Systems for Critical infrastructure and Urban Environments](https://cordis.europa.eu/project/id/101225910)
+
 ## **🧑‍🏫 Teaching & Supervision**
 
-- Master Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM Chair of Connected Mobility
+- Master Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM
+    - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/edge-computing-and-the-internet-of-things/)
     - [Winter Term 2025/26](https://www.ce.cit.tum.de/cm/teaching/winter-term-2025-26/edge-computing-and-the-internet-of-things/)
     - [Winter Term 2024/25](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
-- Seminar - Hot Topics in Edge Computing (IN2107, IN4417) @TUM Chair of Connected Mobility
+- Seminar - Hot Topics in Edge Computing (IN2107, IN4417) @TUM
+    - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/seminar-hot-topics-in-edge-computing-2025/)
     - [Summer Term 2025](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
 - Master/Bachelor Thesis/Guided Research/Internship Supervision @TUM
     - If you are interested in working with me, please feel free to contact me via email.
     - You can also find a list of open topics from our chair [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/).
     - Supervised Students:
+        - Martin Adrian Jahoda - B.sc. Thesis - Quantizing Pre-trained Models for Heterogeneous Edge Devices
+        - Jiexuan Gao - M.sc. Thesis - Measuring Energy Consumption for Mobile Edge Offloadings
+        - Chang Lu - M.sc. Research Internship - Towards Edge-Cloud Collaborative Inference for Object Detection
         - Oguz Kagan Altas - M.sc. Thesis - KUT: Automated Network Traffic Measurement Framework for the Edge
-        - Zihan Deng - B.sc. Intern - Measuring Heterogeneous Edge Devices AI Performance. 
-- Teaching Assistant / Tutorals
-    - Tutuorial - Red Bird Challenge Camp @ HKUST(GZ)
+        - Erik Söhner - B.sc. Thesis - Confidence Estimation in CNNs: From Target Design to Early Decision Offloading
+        - Zihan Deng - B.sc. Engineering Internship - Measuring Heterogeneous Edge Devices AI Performance.
+- Previous Teaching Assistant / Tutorals
+    - Tutorial - Red Bird Challenge Camp @ HKUST(GZ)
     - Teaching Assistant - Python Programming @ Fudan University
 
 ## **💼 Working Experience**
