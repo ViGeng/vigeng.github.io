@@ -4,9 +4,10 @@
 <div class="news-section">
   <h3>📰 Recent News</h3>
   <ul>
-    <li><strong>Apr 2026:</strong> Looking forward to attending <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft! 🚀</li>
+    <li><strong>May 2026:</strong> I will attend IFIP Networking 2026 in Lugano, Switzerland🇨🇭! </li>
+    <li><strong>Apr 2026:</strong> Looking forward to attending <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft 🇳🇱! 🚀</li>
     <li><strong>Apr 2026:</strong> Our full paper "SMOOTH: Scalable Multitask Offloading with Backbone Sharing" accepted at IFIP Networking 2026! 🎉</li>
-    <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025! 🎉</li>
+    <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025 🇭🇰! 🎉</li>
     <!-- <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li> -->
     <!-- <li><strong>Mar 2024:</strong> Visiting Technische Universität München</li> -->
     <!-- <li><strong>Mar 2024:</strong> Visiting Politecnico di Milano</li> -->
@@ -35,7 +36,9 @@
 
 ## **📄 Short Bio**
 
-I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/), co-advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [SPEAR Lab, TU Delft](https://spearlab.nl/people), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Edge Computing and AI Systems**. I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core networkperformance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) in 2020 and 2017 respectively. I have internships in [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
+I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/), co-advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [SPEAR Lab, TU Delft](https://spearlab.nl/people), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Networked ML Systems by Edge Computing**. 
+
+I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core network performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. I have internships at [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
@@ -54,11 +57,11 @@ I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg 
 
 ## **🧑‍🏫 Teaching & Supervision**
 
-- Master Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM
+- Master-level Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM
     - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/edge-computing-and-the-internet-of-things/)
     - [Winter Term 2025/26](https://www.ce.cit.tum.de/cm/teaching/winter-term-2025-26/edge-computing-and-the-internet-of-things/)
     - [Winter Term 2024/25](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
-- Seminar - Hot Topics in Edge Computing (IN2107, IN4417) @TUM
+- Master-level Seminar - Hot Topics in Edge Computing (IN2107, IN4417) @TUM
     - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/seminar-hot-topics-in-edge-computing-2025/)
     - [Summer Term 2025](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
 - Master/Bachelor Thesis/Guided Research/Internship Supervision @TUM
@@ -71,7 +74,7 @@ I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg 
         - Oguz Kagan Altas - M.sc. Thesis - KUT: Automated Network Traffic Measurement Framework for the Edge
         - Erik Söhner - B.sc. Thesis - Confidence Estimation in CNNs: From Target Design to Early Decision Offloading
         - Zihan Deng - B.sc. Engineering Internship - Measuring Heterogeneous Edge Devices AI Performance.
-- Previous Teaching Assistant / Tutorals
+- Previous Teaching Assistant / Tutorals Positions
     - Tutorial - Red Bird Challenge Camp @ HKUST(GZ)
     - Teaching Assistant - Python Programming @ Fudan University
 
