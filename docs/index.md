@@ -36,21 +36,19 @@
 
 ## **📄 Short Bio**
 
-I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/), co-advised by [Prof. Nitinder Mohan](https://www.nitindermohan.com/) at [SPEAR Lab, TU Delft](https://spearlab.nl/people), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Networked ML Systems by Edge Computing**. 
+I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/), I am also a member of [SPEAR Lab, TU Delft](https://spearlab.nl/people) lead by [Prof. Nitinder Mohan](https://www.nitindermohan.com/), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Networked ML Systems by Edge Computing**. 
 
 I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core network performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. I have internships at [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
 ## **💻 Research Interests**
 
-- Edge Computing
-    - supporting critical applications latency-wise and efficiency-wise
-    - e.g., offload DL inference tasks from mobile/IoT devices to edge servers
-- Networked Systems
-    - ML-enabled, e.g., ML-based task scheduling
-    - enabling-ML, e.g., distributed Inference
-- Programming Language Runtime and OS (@Huawei)
-    - Golang runtime scheduler
-    - OS kernel optimization
+Edge Computing and Networked ML Systems
+
+  - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](https://dl.ifip.org/db/conf/networking/networking2026/1571260839.pdf) [[BeyondAcc Under Review]]
+  - Networking for Edge Computing [[CoNext'25 WKSP-KUT]](https://doi.org/10.1145/3765515.3771746) [[ICN'23-SoK]](https://doi.org/10.1145/3623565.3623712)
+  - Selective Task offloading in edge-cloud continuum. [Bgt-ada Under Review] [WIP-ASIDE]
+  - Sustainability (Energy Efficiency) of Edge ML Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)
+  - Golang runtime scheduler & OS kernel optimization [@Huawei Confidential]
 
 ## **🔬 Research Projects**
 - Horizon Europe Project - [Resilient Edge Systems for Critical infrastructure and Urban Environments](https://cordis.europa.eu/project/id/101225910)
@@ -67,7 +65,12 @@ I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), whe
 - Master/Bachelor Thesis/Guided Research/Internship Supervision @TUM
     - If you are interested in working with me, please feel free to contact me via email.
     - You can also find a list of open topics from our chair [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/).
+    - Ongoing Supervision:
+        - Chang Lu - M.sc. Thesis
+        - Zhenghao Lu - B.sc. Thesis
+        - Xingye Lu - B.sc. Internship
     - Supervised Students:
+        - Melisa Ankut - M.sc. Thesis @[Amadeus GmbH](https://amadeus.com/) - Automation of Configuration Request Generation in Enterprise Middleware Systems
         - Martin Adrian Jahoda - B.sc. Thesis - Quantizing Pre-trained Models for Heterogeneous Edge Devices
         - Jiexuan Gao - M.sc. Thesis - Measuring Energy Consumption for Mobile Edge Offloadings
         - Chang Lu - M.sc. Research Internship - Towards Edge-Cloud Collaborative Inference for Object Detection
