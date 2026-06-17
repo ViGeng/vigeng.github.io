@@ -44,8 +44,8 @@ I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), whe
 
 Edge Computing and Networked ML Systems
 
-  - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](papers/ifip-networking26-smooth.pdf) [[BeyondAcc Under Review]]
-  - Networking for Edge Computing [[CoNext'25-Poster-KUT]](https://doi.org/10.1145/3765515.3771746) [[ICN'23-SoK]](https://doi.org/10.1145/3623565.3623712)
+  - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](papers/IFIP-Networking26-smooth.pdf) [[BeyondAcc Under Review]]
+  - Networking for Edge Computing [[CoNext'25-Poster-KUT]](https://doi.org/10.1145/3765515.3771746) [[ICN'23-SoK]](papers/ICN23-sok.pdf)
   - Selective Task offloading in edge-cloud continuum. [Bgt-ada Under Review] [WIP-ASIDE]
   - Sustainability (Energy Efficiency) of Edge ML Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)
   - Golang runtime scheduler & OS kernel optimization [@Huawei Confidential]
