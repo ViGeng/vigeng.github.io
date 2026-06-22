@@ -47,7 +47,7 @@ Edge Computing and Networked ML Systems
 
   - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](papers/ifip-networking26-smooth.pdf) [[BeyondAcc Under Review]]
   - Networking for Edge Computing [[CoNext'25-Poster-KUT](https://doi.org/10.1145/3765515.3771746) [Poster](papers/conext25-poster-kut.pdf)] [[ICN'23-SoK]](papers/icn23-sok.pdf)
-  - Selective Task offloading in edge-cloud continuum. [Bgt-ada Under Review] [WIP-ASIDE]
+  - Selective Task offloading in edge-cloud continuum. [SIGCOMM-WKSP-NAIC'26-Bgt-ada] [WIP-ASIDE]
   - Sustainability (Energy Efficiency) of Edge ML Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)
   - Golang runtime scheduler & OS kernel optimization [@Huawei Confidential]
 
