@@ -56,6 +56,8 @@ Edge Computing and Networked ML Systems
 
 ## **🧑‍🏫 Teaching & Supervision**
 
+- Master-level Seminar - Networked AI Systems (IN2107, IN4417) @TUM
+    - [Winter Term 2026/27](): [Introduction Slides](https://sharelatex.tum.de/read/ydvmvkynkyjg#de8764)
 - Master-level Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM
     - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/edge-computing-and-the-internet-of-things/)
     - [Winter Term 2025/26](https://www.ce.cit.tum.de/cm/teaching/winter-term-2025-26/edge-computing-and-the-internet-of-things/)
