@@ -4,8 +4,9 @@
 <div class="news-section">
   <h3>📰 Recent News</h3>
   <ul>
+    <li><strong>June 22 2026:</strong> Our workshop paper "Budget-Adaptive Routing: Skipping the Weak When the Strong  Answers Anyway" accepted at <a href="https://conferences.sigcomm.org/sigcomm/2026/naic/">NAIC 2026</a> co-located with SIGCOMM 2026! 🎉</li>
     <li><strong>May 2026:</strong> I will attend IFIP Networking 2026 in Lugano, Switzerland🇨🇭! </li>
-    <li><strong>Apr 2026:</strong> Looking forward to attending <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft 🇳🇱! 🚀</li>
+    <li><strong>Apr 2026:</strong> I will attend <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft 🇳🇱! 🚀</li>
     <li><strong>Apr 2026:</strong> Our full paper "SMOOTH: Scalable Multitask Offloading with Backbone Sharing" accepted at IFIP Networking 2026! 🎉</li>
     <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025 🇭🇰! 🎉</li>
     <!-- <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li> -->
