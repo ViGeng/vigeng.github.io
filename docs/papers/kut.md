@@ -11,7 +11,9 @@ citation_author:
 citation_publication_date: "2025"
 citation_conference_title: "Proceedings of the 21st International Conference on emerging Networking EXperiments and Technologies (CoNEXT '25)"
 citation_doi: "10.1145/3765515.3771746"
-citation_pdf_url: "https://wgeng.site/papers/conext25-poster-kut.pdf"
+citation_firstpage: "9"
+citation_lastpage: "11"
+citation_pdf_url: "https://wgeng.site/papers/conext25-poster-KUT-paper.pdf"
 ---
 
 # KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration
@@ -32,11 +34,11 @@ Edge computing brings computation closer to devices, but current network assessm
 
 ```bibtex
 @inproceedings{geng2025poster,
-  title={Poster: KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration},
-  author={Geng, Wei and Altas, Oguz Kagan and Guzman, David and Bartolomeo, Giovanni and Mohan, Nitinder and Ott, Joerg},
-  booktitle={Proceedings of the 21st International Conference on emerging Networking EXperiments and Technologies},
-  pages={9--11},
-  year={2025},
+  title     = {Poster: KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration},
+  author    = {Geng, Wei and Altas, Oguz Kagan and Guzman, David and Bartolomeo, Giovanni and Mohan, Nitinder and Ott, J{\"o}rg},
+  booktitle = {Proceedings of the 21st International Conference on emerging Networking EXperiments and Technologies},
+  pages     = {9--11},
+  year      = {2025},
   doi       = {10.1145/3765515.3771746}
 }
 ```

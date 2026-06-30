@@ -11,8 +11,8 @@ citation_author:
 citation_publication_date: "2023"
 citation_conference_title: "Proceedings of the 10th ACM Conference on Information-Centric Networking (ICN '23)"
 citation_doi: "10.1145/3623565.3623712"
-citation_firstpage: "1"
-citation_lastpage: "13"
+citation_firstpage: "88"
+citation_lastpage: "100"
 citation_pdf_url: "https://wgeng.site/papers/icn23-sok.pdf"
 ---
 
@@ -33,11 +33,11 @@ Information-Centric Networking (ICN), with its data-oriented operation and gener
 
 ```bibtex
 @inproceedings{geng2023sok,
-  title={SoK: Distributed computing in ICN},
-  author={Geng, Wei and Zhang, Yulong and Kutscher, Dirk and Kumar, Abhishek and Tarkoma, Sasu and Hui, Pan},
-  booktitle={Proceedings of the 10th ACM Conference on Information-Centric Networking},
-  pages={88--100},
-  year={2023},
+  title     = {SoK: Distributed Computing in ICN},
+  author    = {Geng, Wei and Zhang, Yulong and Kutscher, Dirk and Kumar, Abhishek and Tarkoma, Sasu and Hui, Pan},
+  booktitle = {Proceedings of the 10th ACM Conference on Information-Centric Networking},
+  pages     = {88--100},
+  year      = {2023},
   doi       = {10.1145/3623565.3623712}
 }
 ```

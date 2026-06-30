@@ -1,0 +1,17 @@
+{#-
+  Custom footer copyright with an auto-updating end year.
+  The start year is fixed (2022); the end year is set to the current year by
+  docs/javascripts/copyright-year.js. This partial intentionally owns the
+  copyright text — mkdocs.yml has no `copyright:` key.
+-#}
+<div class="md-copyright">
+  <div class="md-copyright__highlight">
+    Copyright &copy; 2022&ndash;<span class="md-copyright__year">2026</span> Wei GENG / All Rights Reserved.
+  </div>
+  {% if not config.extra.generator == false %}
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  {% endif %}
+</div>

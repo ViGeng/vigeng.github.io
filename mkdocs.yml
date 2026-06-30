@@ -7,12 +7,13 @@ repo_name: "vigeng/vigeng.github.io"
 repo_url: "https://github.com/ViGeng/vigeng.github.io"
 nav:
   - Home: index.md
+  - Publications:
+      - papers/index.md
+      - SMOOTH: papers/smooth.md
+      - Budget-Adaptive Routing: papers/bgt-ada.md
+      - KUT (Poster): papers/kut.md
+      - "SoK: Distributed Computing in ICN": papers/sok.md
   # - Blog: https://rowanblog.notion.site/
-
-# Per-paper landing pages carry Google Scholar citation_* metadata (see overrides/main.html).
-# They are linked from the homepage rather than the top nav, so silence the not-in-nav warning.
-not_in_nav: |
-  papers/*.md
 
 theme:
   name: material
@@ -65,7 +66,7 @@ theme:
     - content.action.edit
     - content.action.view
 
-copyright: Copyright &copy; 2022~2025 Wei GENG /All Rights Reserved. # 左下角的版权声明
+# Footer copyright (with auto-updating end year) is defined in overrides/partials/copyright.html
 
 extra:
   generator: false #删除页脚显示“使用 MkDocs 材料制造”
@@ -160,6 +161,9 @@ markdown_extensions:
 # - javascripts/backgroud.js
 # - javascripts/rellax.min.js
 # - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js
+extra_javascript:
+  - javascripts/copyright-year.js
+
 extra_css:
   - stylesheets/extra.css
   # - https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/stylesheets/extra.css # extra.css的CDN
