@@ -14,20 +14,11 @@ nav:
       - KUT (Poster): papers/kut.md
       - "SoK: Distributed Computing in ICN": papers/sok.md
   - Teaching & Supervision: teaching/index.md
-  # - Blog: https://rowanblog.notion.site/
 
 theme:
   name: material
   logo: figures/favicon.png
   custom_dir: overrides
-  # custom_dir: material/.overrides
-  # font:
-  # text: Bitter
-  #   code: Roboto Mono
-  # icon:
-  # logo: material/library
-  # admonition:
-  # <type>: material/file-alert-outline
 
   favicon: figures/favicon.png
   palette:
@@ -72,19 +63,19 @@ theme:
 extra:
   generator: false #删除页脚显示“使用 MkDocs 材料制造”
   social:
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/x-twitter
       link: https://x.com/WGeng_
     - icon: fontawesome/brands/github
       link: https://github.com/ViGeng
     - icon: fontawesome/regular/envelope
-      link: mailto:<wei.geng@tum.de> #联系方式
+      link: mailto:wei.geng@tum.de
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/wegeng
     - icon: fontawesome/brands/orcid
       link: https://orcid.org/0000-0001-5970-3550
     - icon: fontawesome/brands/researchgate
       link: https://www.researchgate.net/profile/Wei-Geng-9
-    - icon: fontawesome/brands/google
+    - icon: fontawesome/brands/google-scholar
       link: https://scholar.google.com/citations?user=Zq6m2CIAAAAJ&hl=en
   analytics:
     provider: google
@@ -93,14 +84,6 @@ extra:
 plugins:
   - git-revision-date-localized:
       enable_creation_date: true
-  # - blog:
-  #     blog_dir: .
-  #     post_dir: posts
-  #     post_url_format: "{slug}"
-  #     categories_allowed:
-  #       - Publications
-  #       - Teaching
-  #       - Projects
   - tags
   - offline
   - search
@@ -154,32 +137,13 @@ markdown_extensions:
         !!python/object/apply:pymdownx.slugs.slugify { kwds: { case: lower } }
       permalink: "\ue157"
 
-# extra_javascript:
-# - javascripts/extra.js
-# - https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/javascripts/extra.js  # extra的cdn
-# - javascripts/mathjax.js
-# - https://polyfill.io/v3/polyfill.min.js?features=es6
-# - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-# - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.min.js
-# - ckplayer/js/ckplayer.js
-# - https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/js/social-share.min.js
-# - javascripts/backgroud.js
-# - javascripts/rellax.min.js
-# - https://cdn.jsdelivr.net/npm/mermaid@10.0.2/dist/add-html-label-6e56ed67.min.js
 extra_javascript:
   - javascripts/copyright-year.js
+  - javascripts/external-links.js # open outbound links in a new tab
+  # MathJax for pymdownx.arithmatex (generic mode). Config first, then the
+  # library from a pinned CDN. No polyfill.io (it was hijacked in 2024).
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra_css:
   - stylesheets/extra.css
-  # - https://cdn.jsdelivr.net/gh/Wcowin/Wcowin.github.io@main/docs/stylesheets/extra.css # extra.css的CDN
-  # - stylesheets/extra1.css
-  # - stylesheets/video.css
-  # - https://unpkg.com/@waline/client@v2/dist/waline.css
-  # - https://cdn.jsdelivr.net/npm/gitalk@latest/dist/gitalk.css
-  # - ckplayer/css/ckplayer.css
-  # - https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css
-  # - https://cdnjs.cloudflare.com/ajax/libs/social-share.js/1.0.16/css/share.min.css
-  # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
-  # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css
-  # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.0.0/style.css
-  # - https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css

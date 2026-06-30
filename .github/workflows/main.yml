@@ -1,18 +1,38 @@
 name: Publish docs via GitHub Pages
+
 on:
   push:
     branches:
       - master
 
+# Allow mkdocs gh-deploy to push the built site to the gh-pages branch.
+permissions:
+  contents: write
+
+# Avoid overlapping deploys if commits land in quick succession.
+concurrency:
+  group: deploy-docs
+  cancel-in-progress: true
+
 jobs:
-  build:
+  deploy:
     name: Deploy docs
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout master
-        uses: actions/checkout@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Full history so git-revision-date-localized can read commit dates.
+          fetch-depth: 0
 
-      - name: Deploy docs
-        uses: mhausenblas/mkdocs-deploy-gh-pages@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build and deploy
+        run: mkdocs gh-deploy --force --no-history

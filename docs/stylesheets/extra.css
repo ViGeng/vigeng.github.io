@@ -25,7 +25,55 @@ body {
     /* font-family: "LXGW WenKai Screen", sans-serif; */
 }
 
-/* 设置分栏的方法来自于：https://www.v2ex.com/t/132636 
+/* ============================================================
+   Profile card — contact info (left) + photo (right).
+   Flexbox replaces the old float layout: it self-clears (no
+   wrapping into the bio) and wraps the photo below the contact
+   info on narrow viewports. Markup lives in includes/profile.md.
+   ============================================================ */
+.profile-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    margin: 0.5em 0 1.5em;
+}
+
+.profile-info {
+    flex: 1 1 16rem;
+    min-width: 0;
+}
+
+/* Row of social icons. Each link is a Material inline-SVG icon
+   that inherits the accent color via currentColor. */
+.profile-links {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 0.4rem;
+    font-size: 1.35rem;
+    line-height: 1;
+}
+
+.profile-links a {
+    display: inline-flex;
+    color: var(--md-default-fg-color--light);
+    transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.profile-links a:hover {
+    color: var(--md-accent-fg-color);
+    transform: translateY(-1px);
+}
+
+.profile-links svg {
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+/* 设置分栏的方法来自于：https://www.v2ex.com/t/132636
 设置图片边框：https://blog.csdn.net/ProgramChangesWorld/article/details/51702679 */
 /* define profile photo style */
 .profile-photo-ellipse {

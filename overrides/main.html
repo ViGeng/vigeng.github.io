@@ -7,6 +7,37 @@
 -->
 {% block extrahead %}
   {{ super() }}
+
+  {#- Open Graph / Twitter Card meta for rich link previews (not emitted
+      by the Material base template). Title/description mirror the logic
+      Material uses for <title>; values fall back to site-level config. -#}
+  {%- if page and page.meta and page.meta.title %}
+    {%- set og_title = page.meta.title %}
+  {%- elif page and page.title and not page.is_homepage %}
+    {%- set og_title = page.title ~ " - " ~ config.site_name %}
+  {%- else %}
+    {%- set og_title = config.site_name %}
+  {%- endif %}
+  {%- set og_desc = (page.meta.description if page and page.meta and page.meta.description else config.site_description) %}
+  {%- set og_image = config.site_url ~ "figures/2024florence.jpeg" %}
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ og_title }}">
+  <meta property="og:description" content="{{ og_desc }}">
+  {%- if page and page.canonical_url %}
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  {%- endif %}
+  <meta property="og:image" content="{{ og_image }}">
+  <meta property="og:image:alt" content="Wei GENG">
+  <meta property="og:image:type" content="image/jpeg">
+  <meta property="og:image:width" content="400">
+  <meta property="og:image:height" content="400">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:image:alt" content="Wei GENG">
+  <meta name="twitter:title" content="{{ og_title }}">
+  <meta name="twitter:description" content="{{ og_desc }}">
+  <meta name="twitter:image" content="{{ og_image }}">
+
   {%- if page and page.meta and page.meta.citation_title %}
   <meta name="citation_title" content="{{ page.meta.citation_title }}">
   {%- for author in page.meta.citation_author %}

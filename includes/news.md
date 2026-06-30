@@ -34,10 +34,10 @@
     </div>
     <div class="news-item">
       <span class="news-date">Mar 2024</span>
-      <div class="news-body">Visiting Technische Universität München</div>
+      <div class="news-body">Visiting Technical University of Munich</div>
     </div>
     <div class="news-item">
-      <span class="news-date">Mar 2024</span>
+      <span class="news-date">Jan 2024</span>
       <div class="news-body">Visiting Politecnico di Milano</div>
     </div>
     <div class="news-item">
