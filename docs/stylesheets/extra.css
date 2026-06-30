@@ -221,3 +221,20 @@ body {
         flex-basis: auto;
     }
 }
+
+/* ---------------------------------------------------------------
+   Institution logos in the Education list.
+   .edu-logo caps the logo to the text height (overrides Material's
+   `.md-typeset img { height: auto }`, which otherwise lets wide
+   logos render full-size). .logo-invert flips black-only logos
+   (SPEAR wordmark, TU Delft flame) to white in dark mode so they
+   stay visible; colored favicons are left untouched. */
+.md-typeset img.edu-logo {
+    height: 1.05em;
+    width: auto;
+    vertical-align: -0.2em;
+}
+
+[data-md-color-scheme="slate"] img.logo-invert {
+    filter: invert(1);
+}

@@ -28,33 +28,11 @@ Edge Computing and Networked ML Systems
 
 ## **🧑‍🏫 Teaching & Supervision**
 
-- Master-level Seminar - [Networked AI Systems](https://www.ce.cit.tum.de/cm/teaching/winter-term-2026-27/seminar-nais) (IN2107, IN4417) @TUM
-    - [Winter Term 2026/27](): [Introduction Slides](https://sharelatex.tum.de/read/ydvmvkynkyjg#de8764)
-- Master-level Practical Course: Edge Computing & IoT (IN2106, IN4261) @TUM
-    - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/edge-computing-and-the-internet-of-things/)
-    - [Winter Term 2025/26](https://www.ce.cit.tum.de/cm/teaching/winter-term-2025-26/edge-computing-and-the-internet-of-things/)
-    - [Winter Term 2024/25](https://www.ce.cit.tum.de/cm/teaching/winter-term-2024-25/edge-computing-and-the-iot/)
-- Master-level Seminar - Hot Topics in Edge Computing (IN2107, IN4417) @TUM
-    - [Summer Semester 2026](https://www.ce.cit.tum.de/cm/teaching/summer-term-2026/seminar-hot-topics-in-edge-computing-2025/)
-    - [Summer Term 2025](https://www.ce.cit.tum.de/cm/teaching/summer-term-2025/seminar-hot-topics-in-edge-computing-2025/)
-- Master/Bachelor Thesis/Guided Research/Internship Supervision @TUM
-    - If you are interested in working with me, please feel free to contact me via email.
-    - You can also find a list of open topics from our chair [here](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/).
-    - Ongoing Supervision:
-        - Chang Lu - M.sc. Thesis
-        - Zhenghao Lu - B.sc. Thesis
-        - Xingye Lu - B.sc. Internship
-    - Supervised Students:
-        - Melisa Ankut - M.sc. Thesis @[Amadeus GmbH](https://amadeus.com/) - Automation of Configuration Request Generation in Enterprise Middleware Systems
-        - Martin Adrian Jahoda - B.sc. Thesis - Quantizing Pre-trained Models for Heterogeneous Edge Devices
-        - Jiexuan Gao - M.sc. Thesis - Measuring Energy Consumption for Mobile Edge Offloadings
-        - Chang Lu - M.sc. Research Internship - Towards Edge-Cloud Collaborative Inference for Object Detection
-        - Oguz Kagan Altas - M.sc. Thesis - KUT: Automated Network Traffic Measurement Framework for the Edge
-        - Erik Söhner - B.sc. Thesis - Confidence Estimation in CNNs: From Target Design to Early Decision Offloading
-        - Zihan Deng - B.sc. Engineering Internship - Measuring Heterogeneous Edge Devices AI Performance.
-- Previous Teaching Assistant / Tutorals Positions
-    - Tutorial - Red Bird Challenge Camp @ HKUST(GZ)
-    - Teaching Assistant - Python Programming @ Fudan University
+I teach and supervise at the [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/). Full details on the [Teaching & Supervision](teaching/index.md) page.
+
+- **Courses** @TUM — [Networked AI Systems](teaching/index.md#networked-ai-systems) (seminar) · [Edge Computing & IoT](teaching/index.md#edge-computing--iot) (practical) · [Hot Topics in Edge Computing](teaching/index.md#hot-topics-in-edge-computing) (seminar)
+- **Supervision** — [ongoing students & completed theses](teaching/index.md#supervision), plus [open topics](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/)
+- **Prospective students** — I supervise BSc/MSc theses, guided research & internships. Feel free to [email me](mailto:wei.geng@tum.de).
 
 ## **💼 Working Experience**
 
@@ -65,6 +43,7 @@ Edge Computing and Networked ML Systems
 ## **🎓 Education**
 
 - Ph.D. Student - <img src="figures/logos/informatik.png" alt="Huawei Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="https://www.google.com/s2/favicons?sz=256&domain=www.tum.de" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
+- Lab Member <img src="/figures/logos/SPEAR_logo.png" class="edu-logo logo-invert" alt="SPEAR Lab Logo"> [SPEAR Lab](https://spearlab.nl/people), <img src="figures/logos/tudelft_flame.png" class="edu-logo logo-invert" alt="TU Delft Logo"> TU Delft, Delft, Netherlands - 2024.10~
 - M.Phil. - <img src="https://www.google.com/s2/favicons?sz=256&domain=hkust.edu.hk" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
 - M.Eng. - <img src="https://www.google.com/s2/favicons?sz=256&domain=www.fudan.edu.cn" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
 - B.Eng. - <img src="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://english.hrbeu.edu.cn&size=256" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
@@ -82,7 +61,3 @@ Edge Computing and Networked ML Systems
 - Open Source
     - A set of extensions I wrote for Raycast can be found [here](https://www.raycast.com/ViGeng?via=ViGeng)
 - Pen Calligraphy
-
-<!--
-TU Delft: https://www.tudelft.nl/typo3conf/ext/tud_styling/Resources/Public/img/favicon.ico
- -->

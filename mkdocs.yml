@@ -13,6 +13,7 @@ nav:
       - Budget-Adaptive Routing: papers/bgt-ada.md
       - KUT (Poster): papers/kut.md
       - "SoK: Distributed Computing in ICN": papers/sok.md
+  - Teaching & Supervision: teaching/index.md
   # - Blog: https://rowanblog.notion.site/
 
 theme:
