@@ -47,12 +47,20 @@ I teach and supervise at the [Chair of Connected Mobility, TUM](https://www.ce.c
 - **Courses** @TUM — [Networked AI Systems](teaching/index.md#networked-ai-systems) (seminar) · [Edge Computing & IoT](teaching/index.md#edge-computing--iot) (practical) · [Hot Topics in Edge Computing](teaching/index.md#hot-topics-in-edge-computing) (seminar)
 - **Supervision** — [ongoing students & completed theses](teaching/index.md#supervision), plus [open topics](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/)
 - **Prospective students** — I supervise BSc/MSc theses, guided research & internships. Feel free to [email me](mailto:wei.geng@tum.de).
+- **Certification** — Certificate in Higher Education Teaching, Bavaria (Advanced Level) — ProLehre | Media and Didactics, 2024
 
 ## 🤝 Academic Service
 
-<!-- wei: add other reviewing / sub-reviewer / TPC / organizing roles here. -->
--
-- **Reviewer** — ACM ICN 2023, Poster & Demo Track
+### Program Committees & Reviewing
+
+- **EuroSys 2026** — Artifact Evaluation Committee · Shadow TPC
+- **ACM IMC 2025** — Shadow TPC
+- **ACM ICN 2023** — Program Committee (Poster & Demo Track)
+- **IEEE VRW 2023** — Program Committee
+
+### Professional Membership
+
+- Student Member, **IEEE** and **ACM**
 
 ## 💼 Working Experience
 
