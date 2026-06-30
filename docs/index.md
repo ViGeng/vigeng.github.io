@@ -4,7 +4,7 @@
 <div class="news-section">
   <h3>📰 Recent News</h3>
   <ul>
-    <li><strong>June 22 2026:</strong> Our workshop paper "Budget-Adaptive Routing: Skipping the Weak When the Strong  Answers Anyway" accepted at <a href="https://conferences.sigcomm.org/sigcomm/2026/naic/">NAIC 2026</a> co-located with SIGCOMM 2026! 🎉</li>
+    <li><strong>June 22 2026:</strong> Our workshop paper "Budget-Adaptive Routing: Skipping the Weak When the Strong  Answers Anyway" accepted at workshop <a href="https://conferences.sigcomm.org/sigcomm/2026/naic/">NAIC 2026</a> (SIGCOMM 2026)! 🎉</li>
     <li><strong>May 2026:</strong> I will attend IFIP Networking 2026 in Lugano, Switzerland🇨🇭! </li>
     <li><strong>Apr 2026:</strong> I will attend <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft 🇳🇱! 🚀</li>
     <li><strong>Apr 2026:</strong> Our full paper "SMOOTH: Scalable Multitask Offloading with Backbone Sharing" accepted at IFIP Networking 2026! 🎉</li>
@@ -47,7 +47,7 @@ Edge Computing and Networked ML Systems
 
   - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](papers/ifip-networking26-smooth.pdf) [[BeyondAcc Under Review]]
   - Networking for Edge Computing [[CoNext'25-Poster-KUT](https://doi.org/10.1145/3765515.3771746) [Poster](papers/conext25-poster-kut.pdf)] [[ICN'23-SoK]](papers/icn23-sok.pdf)
-  - Selective Task offloading in edge-cloud continuum. [SIGCOMM-WKSP-NAIC'26-Bgt-ada] [WIP-ASIDE]
+  - Selective Task offloading in edge-cloud continuum. [[SIGCOMM-NAIC'26-Bgt-ada](papers/sigcomm-naic26-bgt-ada.pdf)] [WIP-ASIDE]
   - Sustainability (Energy Efficiency) of Edge ML Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)
   - Golang runtime scheduler & OS kernel optimization [@Huawei Confidential]
 
