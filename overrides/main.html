@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+<!--
+  Inject Google Scholar / Highwire Press citation metadata into the page <head>.
+  Values come from each page's YAML front matter (see docs/papers/*.md).
+  Only emitted when a page declares citation_title.
+-->
+{% block extrahead %}
+  {{ super() }}
+  {%- if page and page.meta and page.meta.citation_title %}
+  <meta name="citation_title" content="{{ page.meta.citation_title }}">
+  {%- for author in page.meta.citation_author %}
+  <meta name="citation_author" content="{{ author }}">
+  {%- endfor %}
+  {%- if page.meta.citation_publication_date %}
+  <meta name="citation_publication_date" content="{{ page.meta.citation_publication_date }}">
+  {%- endif %}
+  {%- if page.meta.citation_conference_title %}
+  <meta name="citation_conference_title" content="{{ page.meta.citation_conference_title }}">
+  {%- endif %}
+  {%- if page.meta.citation_journal_title %}
+  <meta name="citation_journal_title" content="{{ page.meta.citation_journal_title }}">
+  {%- endif %}
+  {%- if page.meta.citation_firstpage %}
+  <meta name="citation_firstpage" content="{{ page.meta.citation_firstpage }}">
+  {%- endif %}
+  {%- if page.meta.citation_lastpage %}
+  <meta name="citation_lastpage" content="{{ page.meta.citation_lastpage }}">
+  {%- endif %}
+  {%- if page.meta.citation_doi %}
+  <meta name="citation_doi" content="{{ page.meta.citation_doi }}">
+  {%- endif %}
+  {%- if page.meta.citation_pdf_url %}
+  <meta name="citation_pdf_url" content="{{ page.meta.citation_pdf_url }}">
+  {%- endif %}
+  {%- endif %}
+{% endblock %}

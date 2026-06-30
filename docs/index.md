@@ -41,13 +41,13 @@ I am a doctoral reseacher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg 
 
 I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core network performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. I have internships at [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
-## **💻 Research Interests & Publications**
+## **💻 Research Interests & Pubs**
 
 Edge Computing and Networked ML Systems
 
-  - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](papers/ifip-networking26-smooth.pdf) [[BeyondAcc Under Review]]
-  - Networking for Edge Computing [[CoNext'25-Poster-KUT](https://doi.org/10.1145/3765515.3771746) [Poster](papers/conext25-poster-kut.pdf)] [[ICN'23-SoK]](papers/icn23-sok.pdf)
-  - Selective Task offloading in edge-cloud continuum. [[SIGCOMM-NAIC'26-Bgt-ada](papers/sigcomm-naic26-bgt-ada.pdf)] [WIP-ASIDE]
+  - Efficiency, Scalability, Cost Optimization of Edge ML Systems [[IFIP Net'26-SMOOTH]](papers/smooth.md) [[BeyondAcc Under Review]]
+  - Networking for Edge Computing [[CoNext'25-Poster-KUT]](papers/kut.md) [[ICN'23-SoK]](papers/sok.md)
+  - Selective Task offloading in edge-cloud continuum. [[SIGCOMM-NAIC'26-Bgt-ada]](papers/bgt-ada.md) [WIP-ASIDE]
   - Sustainability (Energy Efficiency) of Edge ML Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)
   - Golang runtime scheduler & OS kernel optimization [@Huawei Confidential]
 

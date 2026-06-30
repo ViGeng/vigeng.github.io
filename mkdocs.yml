@@ -1,6 +1,7 @@
 site_name: GENG Wei's Homepage
 site_description: Wei GENG's personal webpage.
 site_author: "Wei GENG"
+site_url: "https://wgeng.site/"
 docs_dir: docs/
 repo_name: "vigeng/vigeng.github.io"
 repo_url: "https://github.com/ViGeng/vigeng.github.io"
@@ -8,10 +9,15 @@ nav:
   - Home: index.md
   # - Blog: https://rowanblog.notion.site/
 
+# Per-paper landing pages carry Google Scholar citation_* metadata (see overrides/main.html).
+# They are linked from the homepage rather than the top nav, so silence the not-in-nav warning.
+not_in_nav: |
+  papers/*.md
+
 theme:
   name: material
   logo: figures/favicon.png
-  # custom_dir: overrides
+  custom_dir: overrides
   # custom_dir: material/.overrides
   # font:
   # text: Bitter
@@ -81,8 +87,6 @@ extra:
   analytics:
     provider: google
     property: G-3K0WBLE30D
-  meta:
-    robots: noindex, nofollow
 
 plugins:
   - git-revision-date-localized:
