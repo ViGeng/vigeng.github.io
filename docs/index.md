@@ -8,15 +8,19 @@ keywords: Wei Geng, edge computing, networked systems, selective offloading, TUM
 <!-- Recent News block — content lives in includes/news.md (edit there to add items) -->
 --8<-- "news.md"
 
-<!-- Profile card (contact links + photo) — content in includes/profile.md -->
---8<-- "profile.md"
-
 
 ## 📄 Short Bio
 
+<!-- Photo floats into the bio (text wraps around it); the contact links
+     live in includes/profile.md, included just below the bio. -->
+
+<img class="bio-photo" src="figures/2024florence.jpeg" alt="Wei GENG">
 I am a doctoral researcher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/). I am also a member of [SPEAR Lab, TU Delft](https://spearlab.nl/people) led by [Prof. Nitinder Mohan](https://www.nitindermohan.com/), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Networked Systems by Edge Computing**, such as visual perception pipelines.
 
 I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core network performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. I interned at [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
+
+<!-- Contact links (email + social icons), shown in a row below the bio -->
+--8<-- "profile.md"
 
 ## 💻 Research Interests & Pubs
 
@@ -64,18 +68,18 @@ I teach and supervise at the [Chair of Connected Mobility, TUM](https://www.ce.c
 
 ## 💼 Working Experience
 
-- <img src="figures/logos/huawei.png" alt="Huawei Logo" width="16" height="16"> Huawei Technologies - 5G and High Performance Computing, Shanghai, 2020~2022.
-- <img src="figures/logos/ant.ico" alt="Ant Group Logo" width="16" height="16"> Ant Group - Intern in Cloud Computing, Hangzhou, Summer, 2019
-- <img src="figures/logos/ebay.png" alt="eBay Logo" width="16" height="16"> eBay - Intern in Big Data and Distributed Systems, Shanghai, Winter, 2018
+- ![Huawei](figures/logos/huawei.png){.inline-logo} Huawei Technologies - 5G and High Performance Computing, Shanghai, 2020~2022.
+- ![Ant Group](figures/logos/ant.ico){.inline-logo} Ant Group - Intern in Cloud Computing, Hangzhou, Summer, 2019
+- ![eBay](figures/logos/ebay.png){.inline-logo} eBay - Intern in Big Data and Distributed Systems, Shanghai, Winter, 2018
 
 ## 🎓 Education
 
-- Ph.D. Student - <img src="figures/logos/informatik.png" alt="TUM Informatics Logo" width="16" height="16">[CIT](https://www.cit.tum.de/cit/startseite/), <img src="figures/logos/tum.png" alt="TUM Logo" width="16" height="16"> Technical University of Munich, Munich, Germany - 2024.10~
-- Lab Member <img src="/figures/logos/SPEAR_logo.png" class="edu-logo logo-invert" alt="SPEAR Lab Logo"> [SPEAR Lab](https://spearlab.nl/people), <img src="figures/logos/tudelft_flame.png" class="edu-logo logo-invert" alt="TU Delft Logo"> TU Delft, Delft, Netherlands - 2024.10~
-- M.Phil. - <img src="figures/logos/hkust.png" alt="HKUST Logo" width="16" height="16"> The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
-- M.Eng. - <img src="figures/logos/fudan.png" alt="Fudan Logo" width="16" height="16"> Fudan University, Shanghai, China - 2017~2020
-- B.Eng. - <img src="figures/logos/hrbeu.png" alt="HRBEU Logo" width="16" height="16"> Harbin Engineering University, Harbin, China - 2013~2017
-- Visiting Student - <img src="figures/logos/polimi.png" alt="Polimi Logo" width="16" height="16"> Politecnico di Milano, Milan, Italy - 2023.3
+- Ph.D. Student - ![TUM Informatics](figures/logos/informatik.png){.inline-logo}[CIT](https://www.cit.tum.de/cit/startseite/), ![TUM](figures/logos/tum.png){.inline-logo} Technical University of Munich, Munich, Germany - 2024.10~
+- Lab Member ![SPEAR Lab](figures/logos/SPEAR_logo.png){.inline-logo .logo-invert} [SPEAR Lab](https://spearlab.nl/people), ![TU Delft](figures/logos/tudelft_flame.png){.inline-logo .logo-invert} TU Delft, Delft, Netherlands - 2024.10~
+- M.Phil. - ![HKUST](figures/logos/hkust.png){.inline-logo} The Hong Kong University of Science and Technology, Guangzhou, China - 2022.9~2024.10
+- M.Eng. - ![Fudan](figures/logos/fudan.png){.inline-logo} Fudan University, Shanghai, China - 2017~2020
+- B.Eng. - ![HRBEU](figures/logos/hrbeu.png){.inline-logo} Harbin Engineering University, Harbin, China - 2013~2017
+- Visiting Student - ![Polimi](figures/logos/polimi.png){.inline-logo} Politecnico di Milano, Milan, Italy - 2023.3
 
 <!-- ## **Publications** -->
 

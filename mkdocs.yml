@@ -140,6 +140,7 @@ markdown_extensions:
 extra_javascript:
   - javascripts/copyright-year.js
   - javascripts/external-links.js # open outbound links in a new tab
+  - javascripts/news.js # expandable news thumbnails + image lightbox
   # MathJax for pymdownx.arithmatex (generic mode). Config first, then the
   # library from a pinned CDN. No polyfill.io (it was hijacked in 2024).
   - javascripts/mathjax.js
