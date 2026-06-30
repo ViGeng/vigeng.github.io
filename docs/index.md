@@ -1,38 +1,10 @@
 # **Wei GENG**
 
-<!-- News Section -->
-<div class="news-section">
-  <h3>📰 Recent News</h3>
-  <ul>
-    <li><strong>June 22 2026:</strong> Our workshop paper "Budget-Adaptive Routing: Skipping the Weak When the Strong  Answers Anyway" accepted at workshop <a href="https://conferences.sigcomm.org/sigcomm/2026/naic/">NAIC 2026</a> (SIGCOMM 2026)! 🎉</li>
-    <li><strong>May 2026:</strong> I will attend IFIP Networking 2026 in Lugano, Switzerland🇨🇭! </li>
-    <li><strong>Apr 2026:</strong> I will attend <a href="https://cpi-lab.github.io/fcn/2026/">Future Computing and Networking (FCN 2026)</a> and <a href="https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/">TU Delft &amp; TU Munich Joint Doctoral Seminar</a> in Delft 🇳🇱! 🚀</li>
-    <li><strong>Apr 2026:</strong> Our full paper "SMOOTH: Scalable Multitask Offloading with Backbone Sharing" accepted at IFIP Networking 2026! 🎉</li>
-    <li><strong>Oct 2025:</strong> Our poster paper "KUT: Towards Lightweight On-path Network Assessment for Edge Orchestration" accepted at CoNEXT 2025 🇭🇰! 🎉</li>
-    <!-- <li><strong>Oct 2024:</strong> Started Ph.D. at TUM Chair of Connected Mobility</li> -->
-    <!-- <li><strong>Mar 2024:</strong> Visiting Technische Universität München</li> -->
-    <!-- <li><strong>Mar 2024:</strong> Visiting Politecnico di Milano</li> -->
-    <!-- <li><strong>Sep 4, 2023:</strong> Honored to be selected to receive an ACM Travel Grant and an RBM Research Travel Grant.</li>
-    <li><strong>Aug 16, 2023:</strong> Glad to become a reviewer for ACM ICN 2023 Poster and Demo Track.</li>
-    <li><strong>Aug 2023:</strong> We got an accepted paper in ACM ICN 2023</li> -->
-  </ul>
-</div>
+<!-- Recent News block — content lives in includes/news.md (edit there to add items) -->
+--8<-- "news.md"
 
-<div>
-    <div style="float:left">
-        <a href="mailto:wei.geng@tum.de">Wei.Geng [AT] tum.de</a><br>
-        <a href="https://github.com/vigeng"><i class="fa fa-github"> </i></a>
-        <a href="https://scholar.google.com/citations?user=Zq6m2CIAAAAJ&hl=en"><i class="fa fa-google"> </i></a>
-        <a href="https://orcid.org/0000-0001-5970-3550"><i class="fas fa-id-badge"> </i></a>
-        <a href="www.linkedin.com/in/wegeng"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-        <a href="https://x.com/WGeng_"><i class="fa fa-twitter"></i></a>
-    </div>
-    <div style="float:right">
-        <!-- img class defined in extra.css file -->
-        <img class ="profile-photo-ellipse" src="/figures/2024florence.jpeg">
-    </div>
-</div>
-<br>
+<!-- Profile card (contact links + photo) — content in includes/profile.md -->
+--8<-- "profile.md"
 
 
 ## **📄 Short Bio**

@@ -65,27 +65,159 @@ body {
     word-break: break-all;
   }
 
-/* News section styling for light and dark modes */
+/* ============================================================
+   Recent News — timeline + date pill, scrollable feed.
+   Colors derive from Material theme variables, so the block
+   adapts automatically to light/dark and any palette change.
+   ============================================================ */
 .news-section {
-    padding: 15px;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    background-color: rgba(0, 0, 0, 0.05);
-    border: 1px solid rgba(0, 0, 0, 0.1);
+    /* Decorative accent = the page's primary theme color (not the teal
+       link accent), so the block reads as part of the site identity.
+       Change this one line to re-tint the whole block. */
+    --news-accent: var(--md-primary-fg-color);
+    margin: 1.1em 0 1.8em;
 }
 
-[data-md-color-scheme="slate"] .news-section {
-    background-color: rgba(255, 255, 255, 0.05);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+.md-typeset .news-section h3 {
+    display: flex;
+    align-items: center;
+    gap: .4em;
+    margin: 0 0 .5em;
+    font-weight: 700;
+    letter-spacing: .01em;
 }
 
-.news-section h3 {
-    margin-top: 0;
+/* Scroll viewport: caps height once news accumulates, with a soft
+   fade at the bottom edge hinting there is more to scroll. */
+.news-feed {
+    position: relative;
+    max-height: 11rem;
+    overflow-y: auto;
+    padding: .1rem .2rem 1.4rem 0;
+    /* mask is luminance-based, so the fade works in both color schemes */
+    -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 1.4rem), transparent 100%);
+            mask-image: linear-gradient(to bottom, #000 calc(100% - 1.4rem), transparent 100%);
+    scrollbar-width: thin;
+    scrollbar-color: var(--md-default-fg-color--lighter) transparent;
+    overscroll-behavior: contain;
 }
 
-.news-section ul {
-    margin-bottom: 0;
-    padding-left: 20px;
+.news-feed:focus-visible {
+    outline: 2px solid var(--news-accent);
+    outline-offset: 2px;
+    border-radius: .35rem;
 }
-  
-  
+
+.news-feed::-webkit-scrollbar {
+    width: 5px;
+}
+
+.news-feed::-webkit-scrollbar-thumb {
+    background: var(--md-default-fg-color--lighter);
+    border-radius: 3px;
+}
+
+.news-feed::-webkit-scrollbar-thumb:hover {
+    background: var(--md-default-fg-color--light);
+}
+
+.news-feed::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* Continuous timeline line running through the dots. */
+.news-feed::before {
+    content: "";
+    position: absolute;
+    left: .36rem;
+    top: .25rem;
+    bottom: .25rem;
+    width: 2px;
+    background: color-mix(in srgb, var(--md-default-fg-color) 16%, transparent);
+    border-radius: 2px;
+}
+
+.news-item {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: .3rem .5rem;
+    padding: .32rem .4rem .32rem 1.4rem;
+    border-radius: .35rem;
+    transition: background-color .15s ease;
+}
+
+.news-item:hover {
+    background: color-mix(in srgb, var(--news-accent) 9%, transparent);
+}
+
+/* Timeline dot, ringed by the page background so it sits "on" the line. */
+.news-item::before {
+    content: "";
+    position: absolute;
+    left: .11rem;
+    top: .57rem;
+    width: .6rem;
+    height: .6rem;
+    border-radius: 50%;
+    background: var(--news-accent);
+    box-shadow: 0 0 0 2px var(--md-default-bg-color),
+                0 0 0 3.5px color-mix(in srgb, var(--news-accent) 35%, transparent);
+    transition: transform .15s ease;
+}
+
+.news-item:hover::before {
+    transform: scale(1.25);
+}
+
+.news-date {
+    flex: 0 0 auto;
+    align-self: flex-start;
+    margin-top: .06rem;
+    padding: .08rem .46rem;
+    font-size: .6rem;
+    font-weight: 700;
+    line-height: 1.3;
+    white-space: nowrap;
+    letter-spacing: .02em;
+    color: var(--news-accent);
+    background: color-mix(in srgb, var(--news-accent) 13%, transparent);
+    border-radius: 1rem;
+}
+
+.news-body {
+    flex: 1 1 14rem;
+    min-width: 0;
+    line-height: 1.4;
+}
+
+.news-body a {
+    font-weight: 600;
+}
+
+/* Fallback for browsers without color-mix(): solid-ish accent tints. */
+@supports not (background: color-mix(in srgb, red, blue)) {
+    .news-feed::before {
+        background: var(--md-default-fg-color--lighter);
+    }
+    .news-date {
+        color: var(--news-accent);
+        background: var(--md-code-bg-color);
+    }
+    .news-item:hover {
+        background: var(--md-code-bg-color);
+    }
+    .news-item::before {
+        box-shadow: 0 0 0 2px var(--md-default-bg-color);
+    }
+}
+
+@media screen and (max-width: 44.9375em) {
+    .news-feed {
+        max-height: 15rem;
+    }
+    .news-date {
+        flex-basis: auto;
+    }
+}

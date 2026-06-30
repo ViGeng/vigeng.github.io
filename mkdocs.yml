@@ -118,7 +118,11 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.mark
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      base_path:
+        - .
+        - includes      # partial includes live here, outside docs/ (e.g. news.md)
+      check_paths: true  # fail the build loudly if an --8<-- include is missing
   - pymdownx.smartsymbols
   - pymdownx.tilde
   - pymdownx.superfences:
