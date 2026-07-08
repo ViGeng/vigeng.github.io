@@ -37,13 +37,16 @@ I supervise Bachelor/Master theses, guided research, and internships at TUM. **I
 ### Ongoing
 
 - **Chang Lu** — M.Sc. Thesis
-- **Zhenghao Lu** — B.Sc. Thesis
 - **Xingye Lu** — B.Sc. Internship
 
 ### Completed
 
-<!-- To add a thesis PDF: drop the file in docs/teaching/theses/ and append " · [PDF](theses/<file>.pdf)" to the item. -->
+<!-- Each completed thesis gets a landing page docs/teaching/theses/tum-{bsc,msc,intern,...}-{firstname}.md
+     carrying citation_* metadata (Google Scholar; see docs/papers/*.md for the pattern) plus its
+     PDF/slides (tum-...-{thesis,slides}.pdf, compressed with gs -dPDFSETTINGS=/ebook to ~1 MB).
+     Link the thesis title below to that page, and register the page under Teaching in mkdocs.yml. -->
 
+- **Zhenghao Lu** — B.Sc. Thesis · [*Test-Time Accuracy Indicators for Object Detection*](theses/tum-bsc-zhenghao.md)
 - **Melisa Ankut** — M.Sc. Thesis @[Amadeus GmbH](https://amadeus.com/) · *Automation of Configuration Request Generation in Enterprise Middleware Systems*
 - **Martin Adrian Jahoda** — B.Sc. Thesis · *Quantizing Pre-trained Models for Heterogeneous Edge Devices*
 - **Jiexuan Gao** — M.Sc. Thesis · *Measuring Energy Consumption for Mobile Edge Offloadings*

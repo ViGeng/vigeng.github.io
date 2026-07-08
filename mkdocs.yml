@@ -13,7 +13,9 @@ nav:
       - Budget-Adaptive Routing: papers/bgt-ada.md
       - KUT (Poster): papers/kut.md
       - "SoK: Distributed Computing in ICN": papers/sok.md
-  - Teaching & Supervision: teaching/index.md
+  - Teaching & Supervision:
+      - teaching/index.md
+      - "B.Sc. Thesis - Zhenghao Lu": teaching/theses/tum-bsc-zhenghao.md
 
 theme:
   name: material
