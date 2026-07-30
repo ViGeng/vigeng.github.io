@@ -14,7 +14,7 @@ See also my [Google Scholar profile](https://scholar.google.com/citations?user=Z
   <br>*2026 IFIP Networking Conference (IFIP Networking)*, Lugano, Switzerland.
 - **[Budget-Adaptive Routing: Skipping the Weak When the Strong Answers Anyway](bgt-ada.md)**
   <br>Wei Geng, Nitinder Mohan, Jörg Ott.
-  <br>*Workshop on Networks for AI Computing (NAIC '26), co-located with ACM SIGCOMM 2026*, Denver, CO, USA.
+  <br>*ACM SIGCOMM Workshop on Networks for AI Computing (NAIC '26)*, Denver, CO, USA.
 
 ## 2025
 
