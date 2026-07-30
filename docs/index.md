@@ -15,7 +15,7 @@ keywords: Wei Geng, edge computing, networked systems, selective offloading, TUM
      live in includes/profile.md, included just below the bio. -->
 
 <img class="bio-photo" src="figures/2024florence.jpeg" alt="Wei GENG">
-I am a doctoral researcher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/). I am also a member of [SPEAR Lab, TU Delft](https://spearlab.nl/people) led by [Prof. Nitinder Mohan](https://www.nitindermohan.com/), mentored by [Prof. Dirk Kutscher](https://dirk-kutscher.info/about/) at [HKUST(GZ)](https://www.hkust-gz.edu.cn/). My current research interests lie in **Accelerating Networked Systems by Edge Computing**, such as visual perception pipelines.
+I am a doctoral researcher & Ph.D. candidate supervised by [Prof. Dr.-Ing. Jörg Ott](https://www.ce.cit.tum.de/cm/research-group/joerg-ott/) at [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/). I am also a member of [SPEAR Lab, TU Delft](https://spearlab.nl/people) led by [Prof. Nitinder Mohan](https://www.nitindermohan.com/). My current research interests lie in **Accelerating Networked Systems by Edge Computing**, such as visual perception pipelines.
 
 I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), where I was luckily advised by Prof. [Pan Hui](https://panhui.people.ust.hk/index.html), Prof. [Gareth Tyson](http://www.eecs.qmul.ac.uk/~tysong/), and Prof. [Dirk Kutscher](https://dirk-kutscher.info). Previously, I was a full-time research engineer focusing 5G core network performance optimization at [Huawei](https://www.huawei.com) and lucky to work with Mr. Jing Liu, Dr. Wei Wang, and Dr. Sui Zhou. I obtained my M.Eng and B.Eng from [Fudan University](https://www.fudan.edu.cn/en/) and [Harbin Engineering University](https://english.hrbeu.edu.cn) respectively. I interned at [Alipay](https://www.antgroup.com) and [eBay](https://www.ebay.com).
 
@@ -26,10 +26,10 @@ I obtained my M.Phil. degree from [HKUST(GZ)](https://www.hkust-gz.edu.cn/), whe
 
 Edge Computing and Networked Systems
 
-  - Efficiency, Scalability, Cost Optimization of Edge Systems [[IFIP Net'26-SMOOTH]](papers/smooth.md) [[BeyondAcc Under Review]]
+  - Efficiency, Scalability, Cost Optimization of Edge Systems [[IFIP Networking'26-SMOOTH]](papers/smooth.md) [[BeyondAcc Under Review]]
   - Networking for Edge Computing [[CoNext'25-Poster-KUT]](papers/kut.md) [[ICN'23-SoK]](papers/sok.md)
-  - Selective Task offloading in edge-cloud continuum. [[SIGCOMM-NAIC'26-Bgt-ada]](papers/bgt-ada.md) [WIP-ASIDE]
-  - Sustainability (Energy Efficiency) of Edge Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)
+  - Selective Task offloading in edge-cloud continuum. [[SIGCOMM-NAIC'26-Bgt-ada]](papers/bgt-ada.md) [WIP-Anoymous]
+  - Sustainability (Energy Efficiency) of Edge Systems [[Horizon Europe Project - CIRES]](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/programmes/horizon)[[WIP-Anoymous]]
   - Golang runtime scheduler & OS kernel optimization
 
 ## 🔬 Research Projects
@@ -46,17 +46,21 @@ Edge Computing and Networked Systems
 
 ## 🧑‍🏫 Teaching & Supervision
 
-I teach and supervise at the [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/). Full details on the [Teaching & Supervision](teaching/index.md) page.
+I teach and supervise at [TUM](https://www.ce.cit.tum.de/cm/home/). Full details on the [Teaching & Supervision](teaching/index.md) page.
 
-- **Courses** @TUM — [Networked AI Systems](teaching/index.md#networked-ai-systems) (seminar) · [Edge Computing & IoT](teaching/index.md#edge-computing--iot) (practical) · [Hot Topics in Edge Computing](teaching/index.md#hot-topics-in-edge-computing) (seminar)
-- **Supervision** — [ongoing students & completed theses](teaching/index.md#supervision), plus [open topics](https://www.ce.cit.tum.de/cm/thesis-guided-research/open-thesis-topics-guided-research/)
-- **Prospective students** — I supervise BSc/MSc theses, guided research & internships. Feel free to [email me](mailto:wei.geng@tum.de).
+- **Courses** @TUM
+    - [Networked AI Systems](teaching/index.md#networked-ai-systems) (seminar) · 
+    - [Edge Computing & IoT](teaching/index.md#edge-computing--iot) (practical) · 
+    - [Hot Topics in Edge Computing](teaching/index.md#hot-topics-in-edge-computing) (seminar)
+- **Supervision**: [ongoing students & completed theses](teaching/index.md#supervision)
+- **Prospective students** — I only offer thesis supervision to students from my taught courses.
 - **Certification** — Certificate in Higher Education Teaching, Bavaria (Advanced Level) — ProLehre | Media and Didactics, 2024
 
 ## 🤝 Academic Service
 
 ### Program Committees & Reviewing
 
+- **IEEE TMC** — Reviewer
 - **EuroSys 2026** — Artifact Evaluation Committee · Shadow TPC
 - **ACM IMC 2025** — Shadow TPC
 - **ACM ICN 2023** — Program Committee (Poster & Demo Track)
