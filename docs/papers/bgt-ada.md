@@ -20,6 +20,7 @@ citation_pdf_url: "https://wgeng.site/papers/sigcomm-naic26-bgt-ada.pdf"
 *ACM SIGCOMM Workshop on Networks for AI Computing (NAIC '26), August 17–21, 2026, Denver, CO, USA*
 
 [Download PDF](sigcomm-naic26-bgt-ada.pdf){ .md-button .md-button--primary }
+[Slides](sigcomm-naic26-bgt-ada-slides.pdf){ .md-button }
 [DOI](https://doi.org/10.1145/3789240.3828740){ .md-button }
 
 ## Abstract
