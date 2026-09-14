@@ -26,12 +26,16 @@
 <p class="news-title" role="heading" aria-level="3">📰 Recent News</p>
 <div class="news-feed" tabindex="0" aria-label="Recent news, scrollable" markdown="1">
 
+Aug 2026
+:   Excited to present our workshop paper at [NAIC 2026](https://conferences.sigcomm.org/sigcomm/2026/naic/) (SIGCOMM 2026) in Denver, Colorado 🇺🇸! Was happy to talk to many peers and see the famous rocky mountains☀️⛰️!
+    ![naic-2026-denver](figures/news/2026-8-sigcomm-denver.png){.news-figure data-news-cap="SIGCOMM NAIC 2026, Denver, Colorado — workshop presentation on Budget-Adaptive Routing paper"}
+
 Jun 2026
 :   Our workshop paper "Budget-Adaptive Routing: Skipping the Weak When the Strong Answers Anyway" accepted at workshop [NAIC 2026](https://conferences.sigcomm.org/sigcomm/2026/naic/) (SIGCOMM 2026)! 🎉
 
 May 2026
 :   I gave a talk on our paper "SMOOTH: Scalable Multitask Offloading with Backbone Sharing" at [IFIP Networking 2026](https://ifip-net.org/2026/) in Lugano, Switzerland🇨🇭.
-    ![ifip-net-2026-lugano](figures/news/ifipnet26-talk.jpeg){.news-figure data-news-cap="IFIP Networking 2026, Lugano, Switzerland — talk on SMOOTH paper"}
+    ![ifip-net-2026-lugano](figures/news/2026-5-ifipnet-lugano-talk.jpeg){.news-figure data-news-cap="IFIP Networking 2026, Lugano, Switzerland — talk on SMOOTH paper"}
 
 Apr 2026
 :   I will attend [Future Computing and Networking (FCN 2026)](https://cpi-lab.github.io/fcn/2026/) and [TU Delft & TU Munich Joint Doctoral Seminar](https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2025-10-1/) in Delft 🇳🇱 🚀
