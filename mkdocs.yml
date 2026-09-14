@@ -16,6 +16,7 @@ nav:
   - Teaching & Supervision:
       - teaching/index.md
       - "B.Sc. Thesis - Zhenghao Lu": teaching/theses/tum-bsc-zhenghao.md
+      - "M.Sc. Thesis - Chang Lu": teaching/theses/tum-msc-chang.md
 
 theme:
   name: material

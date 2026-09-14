@@ -36,7 +36,6 @@ I supervise Bachelor/Master theses, guided research, and internships at TUM. **I
 
 ### Ongoing
 
-- **Chang Lu** — M.Sc. Thesis
 - **Xingye Lu** — B.Sc. Internship
 
 ### Completed
@@ -50,7 +49,7 @@ I supervise Bachelor/Master theses, guided research, and internships at TUM. **I
 - **Melisa Ankut** — M.Sc. Thesis @[Amadeus GmbH](https://amadeus.com/) · *Automation of Configuration Request Generation in Enterprise Middleware Systems*
 - **Martin Adrian Jahoda** — B.Sc. Thesis · *Quantizing Pre-trained Models for Heterogeneous Edge Devices*
 - **Jiexuan Gao** — M.Sc. Thesis · *Measuring Energy Consumption for Mobile Edge Offloadings*
-- **Chang Lu** — M.Sc. Research Internship · *Towards Edge-Cloud Collaborative Inference for Object Detection*
+- **Chang Lu** — M.Sc. Thesis · [*Towards Edge Power Measurement: A Low-Cost, Programmable Power Meter*](theses/tum-msc-chang.md)
 - **Oguz Kagan Altas** — M.Sc. Thesis · *KUT: Automated Network Traffic Measurement Framework for the Edge*
 - **Erik Söhner** — B.Sc. Thesis · *Confidence Estimation in CNNs: From Target Design to Early Decision Offloading*
 - **Zihan Deng** — B.Sc. Engineering Internship · *Measuring Heterogeneous Edge Devices AI Performance*
