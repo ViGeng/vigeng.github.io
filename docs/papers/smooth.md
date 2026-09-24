@@ -9,6 +9,7 @@ citation_author:
   - "Hui, Pan"
 citation_publication_date: "2026"
 citation_conference_title: "2026 IFIP Networking Conference (IFIP Networking)"
+citation_doi: "10.23919/IFIPNetworking70592.2026.11578439"
 citation_firstpage: "1"
 citation_lastpage: "10"
 citation_pdf_url: "https://wgeng.site/papers/ifip-networking26-smooth.pdf"
@@ -21,6 +22,7 @@ citation_pdf_url: "https://wgeng.site/papers/ifip-networking26-smooth.pdf"
 *2026 IFIP Networking Conference (IFIP Networking), Lugano, Switzerland, May 2026*
 
 [Download PDF](ifip-networking26-smooth.pdf){ .md-button .md-button--primary }
+[DOI](https://doi.org/10.23919/IFIPNetworking70592.2026.11578439){ .md-button }
 
 ## Abstract
 
@@ -36,6 +38,7 @@ Intelligent mobile applications are often constrained by limited on-device hardw
   address   = {Lugano, Switzerland},
   month     = may,
   year      = {2026},
-  pages     = {1--10}
+  pages     = {1--10},
+  doi       = {10.23919/IFIPNetworking70592.2026.11578439}
 }
 ```
