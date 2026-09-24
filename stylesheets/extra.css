@@ -1,0 +1,441 @@
+:root>* {
+    --md-primary-fg-color: #518FC1;
+    --md-primary-fg-color--light: #518FC1;
+    /* --md-primary-fg-color--dark:  #518FC1; */
+}
+
+/* ============================================================
+   Design tokens — shared scales reused across this stylesheet.
+   Centralising radius / motion / spacing means a corner, an
+   animation speed, or a spacing step is changed in ONE place.
+   New component styles should reference these instead of
+   hard-coding magic numbers.
+   ============================================================ */
+:root {
+    /* corner radii */
+    --radius-sm: .35rem;    /* small UI corners: cards, hover targets, boxes */
+    --radius-md: .4rem;     /* media: news thumbnail + lightbox image */
+    --radius-pill: 1rem;    /* pills / chips: the news date */
+
+    /* motion */
+    --dur-fast: .15s;       /* micro-interactions: hover, press */
+    --dur-base: .2s;        /* reveals, fades */
+
+    /* spacing steps */
+    --space-1: .3rem;
+    --space-2: .5rem;
+}
+
+/* you can using chrome developer tools to find the css you want to change
+and paste the style you want here */
+.md-typeset {
+    /* -webkit-print-color-adjust: exact;
+    color-adjust: exact; */
+    font-size: .7rem;
+    /* change size of plain text font */
+    line-height: 1.4;
+    /* change line height of plain text */
+}
+
+body {
+    /* font-family: "LXGW WenKai", sans-serif; */
+    /* Lite version */
+    /* font-family: "LXGW WenKai Lite", sans-serif; */
+    /* TC version */
+    /* font-family: "LXGW WenKai TC", sans-serif; */
+    /* Screen version */
+    /* font-family: "LXGW WenKai Screen", sans-serif; */
+}
+
+/* ============================================================
+   Profile — the photo floats into the Short Bio so the text wraps
+   around it (saving the vertical space a separate card wasted), and
+   the contact links sit in a compact block below the bio. Markup: an
+   <img class="bio-photo"> at the top of the Short Bio paragraph, plus
+   includes/profile.md (the links) right after the bio.
+   ============================================================ */
+.md-typeset img.bio-photo {
+    float: right;
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 0.1rem 0 1rem 1.5rem;
+    shape-outside: circle();          /* text hugs the circle, not the box */
+    shape-margin: 0.6rem;
+}
+
+/* Contact block below the bio: email + a row of social icons.
+   clear:both drops it below the floated photo even if the bio is short. */
+.profile-contact {
+    clear: both;
+    margin: 0.4rem 0 1.2em;
+}
+
+.profile-contact .profile-email {
+    font-weight: 600;
+}
+
+/* Row of social icons — each is a Material inline-SVG that inherits the
+   accent on hover via currentColor. */
+.profile-links {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 0.35rem;
+    font-size: 1.3rem;
+    line-height: 1;
+}
+
+.profile-links a {
+    display: inline-flex;
+    color: var(--md-default-fg-color--light);
+    transition: color var(--dur-fast) ease, transform var(--dur-fast) ease;
+}
+
+.profile-links a:hover {
+    color: var(--md-accent-fg-color);
+    transform: translateY(-1px);
+}
+
+.profile-links svg {
+    width: 1em;
+    height: 1em;
+    fill: currentColor;
+}
+
+/* Narrow screens: center the photo above the bio instead of floating. */
+@media screen and (max-width: 44.9375em) {
+    .md-typeset img.bio-photo {
+        float: none;
+        display: block;
+        width: 140px;
+        height: 140px;
+        margin: 0 auto 1rem;
+    }
+}
+
+.text-right-center {
+    position: fixed;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+
+  .text-box {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    padding: 10px;
+    background-color: #f1f1f1;
+    border: 1px solid #ccc;
+    border-radius: var(--radius-sm);
+    margin-right: 10px;
+    width: 280px;
+    font-size: small;
+    word-wrap: break-word;
+    word-break: break-all;
+  }
+
+/* ============================================================
+   Recent News — timeline + date pill, scrollable feed.
+   Colors derive from Material theme variables, so the block
+   adapts automatically to light/dark and any palette change.
+   ============================================================ */
+.news-section {
+    /* Decorative accent = the page's primary theme color (not the teal
+       link accent), so the block reads as part of the site identity.
+       Change this one line to re-tint the whole block. */
+    --news-accent: var(--md-primary-fg-color);
+    /* Max height the optional expandable figure unfolds to when its row
+       is expanded (see the "expandable figure" block below). */
+    --news-figure-h: 10rem;
+    margin: 1.1em 0 1.8em;
+}
+
+.md-typeset .news-section .news-title {
+    display: flex;
+    align-items: center;
+    gap: .4em;
+    margin: 0 0 .5em;
+    font-size: 1.25em;
+    font-weight: 700;
+    letter-spacing: .01em;
+}
+
+/* Scroll viewport: caps height once news accumulates, with a soft
+   fade at the bottom edge hinting there is more to scroll. */
+.news-feed {
+    position: relative;
+    max-height: 11rem;
+    overflow-y: auto;
+    padding: .1rem .2rem 1.4rem 0;
+    /* mask is luminance-based, so the fade works in both color schemes */
+    -webkit-mask-image: linear-gradient(to bottom, #000 calc(100% - 1.4rem), transparent 100%);
+            mask-image: linear-gradient(to bottom, #000 calc(100% - 1.4rem), transparent 100%);
+    scrollbar-width: thin;
+    scrollbar-color: var(--md-default-fg-color--lighter) transparent;
+    overscroll-behavior: contain;
+}
+
+.news-feed:focus-visible {
+    outline: 2px solid var(--news-accent);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+}
+
+.news-feed::-webkit-scrollbar {
+    width: 5px;
+}
+
+.news-feed::-webkit-scrollbar-thumb {
+    background: var(--md-default-fg-color--lighter);
+    border-radius: 3px;
+}
+
+.news-feed::-webkit-scrollbar-thumb:hover {
+    background: var(--md-default-fg-color--light);
+}
+
+.news-feed::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+/* The news list is authored as a Markdown definition list (dt = date,
+   dd = body) — see includes/news.md. CSS grid pairs each dt/dd on one
+   row, so the source stays clean (no per-item <div> wrappers). */
+.md-typeset .news-feed dl {
+    position: relative;
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    align-items: start;
+    column-gap: var(--space-2);
+    row-gap: .1rem;
+    margin: 0;
+    padding-left: 1.4rem;        /* gutter for the timeline */
+}
+
+/* Continuous timeline line running down the gutter, through the dots. */
+.news-feed dl::before {
+    content: "";
+    position: absolute;
+    left: .36rem;
+    top: .35rem;
+    bottom: .35rem;
+    width: 2px;
+    background: color-mix(in srgb, var(--md-default-fg-color) 16%, transparent);
+    border-radius: 2px;
+}
+
+/* dt = the date pill, with a timeline dot in the gutter. */
+.md-typeset .news-feed dt {
+    grid-column: 1;
+    justify-self: start;
+    align-self: start;
+    position: relative;
+    margin: .2rem 0 0;
+    padding: .08rem .46rem;
+    font-size: .6rem;
+    font-weight: 700;
+    line-height: 1.3;
+    white-space: nowrap;
+    letter-spacing: .02em;
+    color: var(--news-accent);
+    background: color-mix(in srgb, var(--news-accent) 13%, transparent);
+    border-radius: var(--radius-pill);
+}
+
+/* Timeline dot, ringed by the page background so it sits "on" the line. */
+.news-feed dt::before {
+    content: "";
+    position: absolute;
+    left: -1.33rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: .6rem;
+    height: .6rem;
+    border-radius: 50%;
+    background: var(--news-accent);
+    box-shadow: 0 0 0 2px var(--md-default-bg-color),
+                0 0 0 3.5px color-mix(in srgb, var(--news-accent) 35%, transparent);
+    transition: transform var(--dur-fast) ease;
+}
+
+/* dd = the news body. */
+.md-typeset .news-feed dd {
+    grid-column: 2;
+    margin: 0;
+    padding: .2rem .35rem;
+    line-height: 1.4;
+    border-radius: var(--radius-sm);
+    transition: background-color var(--dur-fast) ease;
+}
+
+.news-feed dd a {
+    font-weight: 600;
+}
+
+/* Row hover highlight + dot pop — hovering the date OR the body counts
+   (sibling adjacency / :has). */
+@media (hover: hover) {
+    .md-typeset .news-feed dd:hover,
+    .md-typeset .news-feed dt:hover + dd {
+        background: color-mix(in srgb, var(--news-accent) 9%, transparent);
+    }
+    .news-feed dt:hover::before,
+    .news-feed dt:has(+ dd:hover)::before {
+        transform: translateY(-50%) scale(1.25);
+    }
+}
+
+/* Fallback for browsers without color-mix(): solid-ish accent tints. */
+@supports not (background: color-mix(in srgb, red, blue)) {
+    .news-feed dl::before {
+        background: var(--md-default-fg-color--lighter);
+    }
+    .news-feed dt {
+        color: var(--news-accent);
+        background: var(--md-code-bg-color);
+    }
+    .news-feed dd:hover {
+        background: var(--md-code-bg-color);
+    }
+    .news-feed dt::before {
+        box-shadow: 0 0 0 2px var(--md-default-bg-color);
+    }
+}
+
+@media screen and (max-width: 44.9375em) {
+    .news-feed {
+        max-height: 15rem;
+    }
+}
+
+/* ---------------------------------------------------------------
+   Optional, expandable figure on a news item.
+   In includes/news.md, put the image on its own line under the body
+   (indented, no blank line), tagged with class news-figure:
+     ![alt](figures/…){.news-figure data-news-cap="caption when enlarged"}
+   The figure is HIDDEN until the row is "expanded": clicking the row
+   (the date shows a "›" disclosure caret) toggles .is-expanded on the
+   dd (news.js), unfolding the figure below the text. Clicking the
+   figure opens a lightbox showing it full-size with its caption.
+   --------------------------------------------------------------- */
+/* Rows that carry a figure get a pointer cursor and a disclosure caret
+   on the date pill, so the date reads as "click to expand". */
+.news-feed dd:has(.news-figure),
+.news-feed dt:has(+ dd:has(.news-figure)) {
+    cursor: pointer;
+}
+.news-feed dt:has(+ dd:has(.news-figure))::after {
+    content: "›";
+    display: inline-block;
+    margin-left: .3rem;
+    font-weight: 700;
+    transition: transform var(--dur-fast) ease;
+}
+.news-feed dt:has(+ dd.is-expanded)::after {
+    transform: rotate(90deg);    /* caret points down when open */
+}
+
+/* The figure sits on its own line under the body, collapsed to zero
+   height until the row is expanded, then unfolds (animated). Clicking it
+   opens the full-size lightbox. */
+.md-typeset .news-figure {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: min(100%, 24rem);
+    max-height: 0;
+    opacity: 0;
+    margin: 0;
+    border-radius: var(--radius-md);
+    cursor: zoom-in;
+    box-shadow: 0 0 0 1px color-mix(in srgb, var(--md-default-fg-color) 14%, transparent);
+    transition: max-height var(--dur-base) ease, opacity var(--dur-base) ease,
+                margin var(--dur-base) ease, transform var(--dur-fast) ease;
+}
+
+.news-feed dd.is-expanded {
+    background: color-mix(in srgb, var(--news-accent) 12%, transparent);  /* raised-card look */
+}
+.news-feed dd.is-expanded .news-figure {
+    max-height: var(--news-figure-h);
+    opacity: 1;
+    margin: .4rem 0 .15rem;
+}
+
+.md-typeset .news-figure:hover,
+.md-typeset .news-figure:focus-visible {
+    transform: scale(1.01);
+    box-shadow: 0 2px 12px color-mix(in srgb, var(--md-default-fg-color) 40%, transparent);
+    outline: none;
+}
+
+/* Keyboard focus ring for the date when it is a disclosure button
+   (news.js adds role=button + tabindex to figure-bearing rows). The
+   lightbox dialog receives focus on open but shouldn't show a ring. */
+.news-feed dt[role="button"]:focus-visible {
+    outline: 2px solid var(--news-accent);
+    outline-offset: 2px;
+}
+.news-lightbox:focus {
+    outline: none;
+}
+
+/* Lightbox — built and toggled by docs/javascripts/news.js. */
+.news-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: .9rem;
+    padding: 5vh 5vw;
+    background: rgba(0, 0, 0, .82);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity var(--dur-base) ease;
+    cursor: zoom-out;
+}
+.news-lightbox.is-open {
+    opacity: 1;
+    visibility: visible;
+}
+.md-typeset .news-lightbox img {
+    max-width: 92vw;
+    max-height: 80vh;
+    width: auto;
+    height: auto;
+    border-radius: var(--radius-md);
+    box-shadow: 0 10px 50px rgba(0, 0, 0, .55);
+}
+.news-lightbox figcaption {
+    max-width: 80vw;
+    color: #fff;
+    font-size: .8rem;
+    line-height: 1.4;
+    text-align: center;
+}
+
+/* ---------------------------------------------------------------
+   Inline institution logos (Working Experience + Education lists).
+   .inline-logo caps the logo to the surrounding text height (overrides
+   Material's `.md-typeset img { height: auto }`, which otherwise lets
+   wide logos render full-size). .logo-invert flips black-only logos
+   (SPEAR wordmark, TU Delft flame) to white in dark mode so they stay
+   visible; colored favicons are left untouched. Authored in
+   docs/index.md as Markdown images: ![Alt](figures/logos/foo.png){.inline-logo} */
+.md-typeset img.inline-logo {
+    height: 1.05em;
+    width: auto;
+    vertical-align: -0.2em;
+}
+
+[data-md-color-scheme="slate"] img.logo-invert {
+    filter: invert(1);
+}
