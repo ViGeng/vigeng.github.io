@@ -26,6 +26,13 @@
 <p class="news-title" role="heading" aria-level="3">📰 Recent News</p>
 <div class="news-feed" tabindex="0" aria-label="Recent news, scrollable" markdown="1">
 
+Oct 2026
+:   Participated in the [Doctoral Seminar (DocSem'26 Fall)](https://www.ce.cit.tum.de/cm/events/doctoral-seminar/ds-2026-10/) in Schliersee, Germany.
+    ![DocSem'26 Fall in Schliersee](figures/news/2026-10-schliersee.jpeg){.news-figure data-news-cap="Doctoral Seminar (DocSem'26 Fall), Schliersee, Germany — October 8, 2026"}
+Oct 2026
+:   Visited [RISE](https://www.ri.se/) in Kista, Stockholm, Sweden
+    ![RISE in Stockholm](figures/news/2026-10-rise-stockholm.jpeg){.news-figure data-news-cap="RISE, Kista, Stockholm, Sweden — October 6, 2026"}
+
 Aug 2026
 :   Excited to present our workshop paper at [NAIC 2026](https://conferences.sigcomm.org/sigcomm/2026/naic/) (SIGCOMM 2026) in Denver, Colorado 🇺🇸! Was happy to talk to many peers and see the famous rocky mountains☀️⛰️!
     ![naic-2026-denver](figures/news/2026-8-sigcomm-denver.png){.news-figure data-news-cap="SIGCOMM NAIC 2026, Denver, Colorado — workshop presentation on Budget-Adaptive Routing paper"}
