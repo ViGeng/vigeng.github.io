@@ -5,15 +5,15 @@ description: Courses, seminars, and student supervision by Wei Geng at TUM.
 
 # Teaching & Supervision
 
-I teach and supervise at the [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/).
+I teach and supervise students at the [Chair of Connected Mobility, TUM](https://www.ce.cit.tum.de/cm/home/).
 
 ## Courses
 
 ### Networked AI Systems
 
-Master-level seminar [IN2107, INxxxx] @TUM — [official course page](https://www.ce.cit.tum.de/cm/teaching/winter-term-2026-27/seminar-nais)
+Master-level Seminar (IN2107, IN45177) @TUM — [official course page](https://www.ce.cit.tum.de/cm/teaching/winter-term-2026-27/seminar-nais)
 
-- **Winter Term 2026/27** — [Introduction Slides](https://sharelatex.tum.de/read/ydvmvkynkyjg#de8764)
+- **Winter Term 2026/27** — [Introduction Slides](slides/NAIS-2627WS.pdf)
 
 ### Edge Computing & IoT
 
